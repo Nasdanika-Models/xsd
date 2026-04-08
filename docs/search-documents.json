@@ -1,0 +1,2310 @@
+{
+  "references/eClassifiers/XSDFacet/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDFacet/References/annotation",
+    "link-uuid": "60c2eb96-86fd-4638-bd6e-5e28649fc89c",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682814714
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/version/index.html": {
+    "path": "XSDSchema/Attributes/version",
+    "link-uuid": "3df7705e-6b1e-4e2e-8472-08bc726144b6",
+    "title": "version",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816838
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/anonymousTypeDefinition/index.html": {
+    "path": "XSDAttributeDeclaration/References/anonymousTypeDefinition",
+    "link-uuid": "9386c2c2-92de-43e9-ba12-7b4c305677de",
+    "title": "anonymousTypeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..1",
+    "timestamp": 1775682813465
+  },
+  "references/eClassifiers/XSDNotationDeclaration/index.html": {
+    "link-uuid": "e578b58e-cd40-47ff-906a-15b6a7f50d54",
+    "title": "XSDNotationDeclaration",
+    "content": "Diagram ",
+    "timestamp": 1775682816110
+  },
+  "references/eClassifiers/XSDNamedComponent/references/eStructuralFeatures/name/index.html": {
+    "path": "XSDNamedComponent/Attributes/name",
+    "link-uuid": "8743707f-ccc6-4a7e-b3ed-eb731415c460",
+    "title": "name",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816047
+  },
+  "references/eClassifiers/XSDRedefine/inheritance.html": {
+    "path": "XSDRedefine/Inheritance",
+    "link-uuid": "148ea53c-add9-456d-bc44-bcfa148c804d",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816536
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/schemaLocation/index.html": {
+    "path": "XSDSchema/Attributes/schemaLocation",
+    "link-uuid": "bd766d3d-83e7-4c4a-85ea-ba0afc2a242f",
+    "title": "schemaLocation",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816823
+  },
+  "references/eClassifiers/XSDMaxFacet/inheritance.html": {
+    "path": "XSDMaxFacet/Inheritance",
+    "link-uuid": "81af5125-e382-4e2f-9318-86e2e3c63b3d",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682815363
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/attributeDeclaration/index.html": {
+    "path": "XSDAttributeUse/References/attributeDeclaration",
+    "link-uuid": "cb9f003f-2135-418d-b036-10991762ed0c",
+    "title": "attributeDeclaration",
+    "content": "Type XSDAttributeDeclaration Multiplicity 1",
+    "timestamp": 1775682813726
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeWildcardContent/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/attributeWildcardContent",
+    "link-uuid": "65c91854-0e59-4cb4-bb58-d73369c324ad",
+    "title": "attributeWildcardContent",
+    "content": "Type XSDWildcard Multiplicity 0..1",
+    "timestamp": 1775682813638
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/selector/index.html": {
+    "path": "XSDIdentityConstraintDefinition/References/selector",
+    "link-uuid": "1222f4fe-5bdd-4428-854b-6081ce5f930c",
+    "title": "selector",
+    "content": "Type XSDXPathDefinition Multiplicity 1",
+    "timestamp": 1775682815087
+  },
+  "references/eClassifiers/XSDMinExclusiveFacet/inheritance.html": {
+    "path": "XSDMinExclusiveFacet/Inheritance",
+    "link-uuid": "bdbef4bd-4712-4cb5-a7fb-78fe89453b66",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815570
+  },
+  "references/eClassifiers/XSDMinFacet/references/eStructuralFeatures/inclusive/index.html": {
+    "path": "XSDMinFacet/Attributes/inclusive",
+    "link-uuid": "8c8cfa6b-fcef-4f82-9581-91e1d861fc26",
+    "title": "inclusive",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682815655
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxInclusiveFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/maxInclusiveFacet",
+    "link-uuid": "8948c0a9-394e-4364-ba8d-533bafcfb545",
+    "title": "maxInclusiveFacet",
+    "content": "Type XSDMaxInclusiveFacet Multiplicity 0..1",
+    "timestamp": 1775682817244
+  },
+  "references/eClassifiers/XSDAttributeUse/index.html": {
+    "link-uuid": "1355f2a3-b7df-4047-a94c-792f845da4f1",
+    "title": "XSDAttributeUse",
+    "content": "Diagram ",
+    "timestamp": 1775682813707
+  },
+  "references/eClassifiers/XSDBoundedFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDBoundedFacet/Attributes/value",
+    "link-uuid": "adcf9f4b-1887-4999-94ab-ea6e84ea48a7",
+    "title": "value",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682813835
+  },
+  "references/eClassifiers/XSDWildcard/inheritance.html": {
+    "path": "XSDWildcard/Inheritance",
+    "link-uuid": "480dd25e-6916-48a5-9f95-57897ec5e8ab",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682817705
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/elementFormDefault/index.html": {
+    "path": "XSDSchema/Attributes/elementFormDefault",
+    "link-uuid": "3d4c3464-47e0-4c8a-a6b7-b9fa1bcbce09",
+    "title": "elementFormDefault",
+    "content": "Type XSDForm Multiplicity 0..1",
+    "timestamp": 1775682816775
+  },
+  "references/eClassifiers/XSDTypeDefinition/inheritance.html": {
+    "path": "XSDTypeDefinition/Inheritance",
+    "link-uuid": "2ee74136-4195-4142-a5a1-efca3ec2f3b2",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682817557
+  },
+  "references/eClassifiers/XSDPatternFacet/inheritance.html": {
+    "path": "XSDPatternFacet/Inheritance",
+    "link-uuid": "4777789f-c23e-434f-918d-61cc52270e96",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816423
+  },
+  "references/eClassifiers/XSDEnumerationFacet/inheritance.html": {
+    "path": "XSDEnumerationFacet/Inheritance",
+    "link-uuid": "e78999f2-d81d-44a2-a5c3-908599a682cd",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682814644
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/notationDeclarations/index.html": {
+    "path": "XSDSchema/References/notationDeclarations",
+    "link-uuid": "5d3b42a7-4008-4c54-97bf-836707f447a8",
+    "title": "notationDeclarations",
+    "content": "Type XSDNotationDeclaration Multiplicity 0..*",
+    "timestamp": 1775682816799
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/mixed/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/mixed",
+    "link-uuid": "e657931a-866e-413a-9ae7-85d2778252e8",
+    "title": "mixed",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814105
+  },
+  "references/eClassifiers/XSDRedefinableComponent/inheritance.html": {
+    "path": "XSDRedefinableComponent/Inheritance",
+    "link-uuid": "b3ed13dd-b6bc-45eb-a2ab-a4054650a160",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816489
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/rootVersion/index.html": {
+    "path": "XSDSchema/References/rootVersion",
+    "link-uuid": "cde65986-d876-4f68-a564-99e213b2ebd5",
+    "title": "rootVersion",
+    "content": "Type XSDSchema Multiplicity 1",
+    "timestamp": 1775682816813
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/substitutions/index.html": {
+    "path": "XSDDiagnostic/Attributes/substitutions",
+    "link-uuid": "2f7749a4-5cb1-453d-b10e-4d72dc153711",
+    "title": "substitutions",
+    "content": "Type EString Multiplicity 0..*",
+    "timestamp": 1775682814438
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/fundamentalFacets/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/fundamentalFacets",
+    "link-uuid": "bc4035e3-7a44-443e-9862-6b9df639a21e",
+    "title": "fundamentalFacets",
+    "content": "Type XSDFundamentalFacet Multiplicity 1..*",
+    "timestamp": 1775682817215
+  },
+  "references/eClassifiers/XSDLengthFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDLengthFacet/Attributes/value",
+    "link-uuid": "796d1092-5c67-4719-8ed3-87c454ad426a",
+    "title": "value",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682815252
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/content/index.html": {
+    "path": "XSDComplexTypeDefinition/References/content",
+    "link-uuid": "073277c3-0a3c-4f6d-9ef9-8daf0977250b",
+    "title": "content",
+    "content": "Type XSDComplexTypeContent Multiplicity 0..1",
+    "timestamp": 1775682814067
+  },
+  "references/eClassifiers/XSDMinExclusiveFacet/index.html": {
+    "link-uuid": "9e7c54a6-3dab-421a-8700-b6202cdf0b17",
+    "title": "XSDMinExclusiveFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815564
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMaxFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveMaxFacet",
+    "link-uuid": "7a5a699b-803a-43bb-aab2-b086cbcc6bda",
+    "title": "effectiveMaxFacet",
+    "content": "Type XSDMaxFacet Multiplicity 0..1",
+    "timestamp": 1775682817156
+  },
+  "references/eClassifiers/XSDNumericFacet/index.html": {
+    "link-uuid": "5edadd03-1ad1-4337-930e-393c5a30d0de",
+    "title": "XSDNumericFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682816180
+  },
+  "references/eClassifiers/XSDScope/index.html": {
+    "link-uuid": "0477548e-64f0-402c-86e0-9f1bd63e4ea7",
+    "title": "XSDScope",
+    "content": "Diagram ",
+    "timestamp": 1775682817042
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/lexicalFinal/index.html": {
+    "path": "XSDSimpleTypeDefinition/Attributes/lexicalFinal",
+    "link-uuid": "90534470-53a8-466b-9553-dedfb14f994e",
+    "title": "lexicalFinal",
+    "content": "Type XSDSimpleFinal Multiplicity 0..*",
+    "timestamp": 1775682817230
+  },
+  "references/eClassifiers/XSDComponent/inheritance.html": {
+    "path": "XSDComponent/Inheritance",
+    "link-uuid": "38e68ede-4d4b-4477-8f9b-61ec4f34ff2f",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682814176
+  },
+  "references/eClassifiers/XSDSchemaDirective/references/eStructuralFeatures/resolvedSchema/index.html": {
+    "path": "XSDSchemaDirective/References/resolvedSchema",
+    "link-uuid": "9658ec91-4306-4805-a22a-70d00c2fa811",
+    "title": "resolvedSchema",
+    "content": "Type XSDSchema Multiplicity 0..1",
+    "timestamp": 1775682816992
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveTotalDigitsFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveTotalDigitsFacet",
+    "link-uuid": "cf03e895-78e3-4013-9d81-f5949063919f",
+    "title": "effectiveTotalDigitsFacet",
+    "content": "Type XSDTotalDigitsFacet Multiplicity 0..1",
+    "timestamp": 1775682817181
+  },
+  "references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/element/index.html": {
+    "path": "XSDConcreteComponent/Attributes/element",
+    "link-uuid": "0ddcd234-1e22-4d9b-a803-c4c8183e0610",
+    "title": "element",
+    "content": "Type DOMElement Multiplicity 0..1",
+    "timestamp": 1775682814250
+  },
+  "references/eClassifiers/XSDSchemaContent/index.html": {
+    "link-uuid": "2f9b5990-9b75-4ecb-a50e-f1935e3d4b4f",
+    "title": "XSDSchemaContent",
+    "content": "Diagram ",
+    "timestamp": 1775682816936
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/simpleType/index.html": {
+    "path": "XSDTypeDefinition/References/simpleType",
+    "link-uuid": "71f3ec4f-a42f-41cb-9c09-999db3abbd0c",
+    "title": "simpleType",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..1",
+    "timestamp": 1775682817592
+  },
+  "references/eClassifiers/XSDFixedFacet/inheritance.html": {
+    "path": "XSDFixedFacet/Inheritance",
+    "link-uuid": "775db51a-a1da-4af7-9b72-a240fb829678",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682814879
+  },
+  "references/eClassifiers/XSDMinFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDMinFacet/Attributes/value",
+    "link-uuid": "f6f2ccc0-1bab-4fa5-aa07-71ed2c2ff0d2",
+    "title": "value",
+    "content": "Type Value Multiplicity 0..1",
+    "timestamp": 1775682815663
+  },
+  "references/eClassifiers/XSDLengthFacet/index.html": {
+    "link-uuid": "f5420e87-612e-496d-a25e-a2e2f597353b",
+    "title": "XSDLengthFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815237
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/memberTypeDefinitions/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/memberTypeDefinitions",
+    "link-uuid": "fa05004c-4902-4cc1-8517-9600f8f7eb04",
+    "title": "memberTypeDefinitions",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..*",
+    "timestamp": 1775682817255
+  },
+  "references/eClassifiers/XSDParticle/references/eStructuralFeatures/minOccurs/index.html": {
+    "path": "XSDParticle/Attributes/minOccurs",
+    "link-uuid": "901ba0f4-b751-4504-a19b-35ad57d33d53",
+    "title": "minOccurs",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682816328
+  },
+  "references/eClassifiers/XSDImport/inheritance.html": {
+    "path": "XSDImport/Inheritance",
+    "link-uuid": "decb40c8-9aa0-438f-9fad-1755f776f543",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815128
+  },
+  "references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/schema/index.html": {
+    "path": "XSDConcreteComponent/References/schema",
+    "link-uuid": "cf1ffdcd-0813-4ce5-a660-44dfe2bfa5e4",
+    "title": "schema",
+    "content": "Type XSDSchema Multiplicity 0..1",
+    "timestamp": 1775682814260
+  },
+  "references/eClassifiers/XSDEnumerationFacet/index.html": {
+    "link-uuid": "62a2657d-1731-4d1a-95c8-9f3b39fdbd6f",
+    "title": "XSDEnumerationFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682814639
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/annotationURI/index.html": {
+    "path": "XSDDiagnostic/Attributes/annotationURI",
+    "link-uuid": "1c0406d0-7c81-428a-8ed7-0ab04c6fbf23",
+    "title": "annotationURI",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814387
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/constraint/index.html": {
+    "path": "XSDAttributeUse/Attributes/constraint",
+    "link-uuid": "d9df563c-a103-48ce-8ca8-af6f804507a9",
+    "title": "constraint",
+    "content": "Type XSDConstraint Multiplicity 0..1",
+    "timestamp": 1775682813732
+  },
+  "references/eClassifiers/XSDWildcard/references/eStructuralFeatures/namespaceConstraint/index.html": {
+    "path": "XSDWildcard/Attributes/namespaceConstraint",
+    "link-uuid": "a5867e3a-193a-409d-9c37-f96d16028562",
+    "title": "namespaceConstraint",
+    "content": "Type EString Multiplicity 0..*",
+    "timestamp": 1775682817732
+  },
+  "references/eClassifiers/XSDXPathDefinition/inheritance.html": {
+    "path": "XSDXPathDefinition/Inheritance",
+    "link-uuid": "acdda4b6-cdd1-4d94-a176-9b1dd767d783",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682817784
+  },
+  "references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/contents/index.html": {
+    "path": "XSDModelGroup/References/contents",
+    "link-uuid": "2a9a7002-eb69-43d0-8bef-308cf8b13398",
+    "title": "contents",
+    "content": "Type XSDParticle Multiplicity 0..*",
+    "timestamp": 1775682815883
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/inheritance.html": {
+    "path": "XSDAttributeGroupDefinition/Inheritance",
+    "link-uuid": "f7560fe6-8f5b-4026-9cf0-03b2dadeefd6",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682813599
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/key/index.html": {
+    "path": "XSDDiagnostic/Attributes/key",
+    "link-uuid": "3489c3f2-10b3-414e-83f5-6012bdeccc3b",
+    "title": "key",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814402
+  },
+  "references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDModelGroup/References/annotation",
+    "link-uuid": "44570d2a-4cd0-4d66-9020-645a53893964",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682815869
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/elementDeclarations/index.html": {
+    "path": "XSDSchema/References/elementDeclarations",
+    "link-uuid": "8d268242-76c7-47f5-9872-e8581c7166e6",
+    "title": "elementDeclarations",
+    "content": "Type XSDElementDeclaration Multiplicity 0..*",
+    "timestamp": 1775682816769
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveWhiteSpaceFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveWhiteSpaceFacet",
+    "link-uuid": "57ff64da-2538-4a03-8f55-369ad1098804",
+    "title": "effectiveWhiteSpaceFacet",
+    "content": "Type XSDWhiteSpaceFacet Multiplicity 0..1",
+    "timestamp": 1775682817185
+  },
+  "references/eClassifiers/XSDMinFacet/references/eStructuralFeatures/exclusive/index.html": {
+    "path": "XSDMinFacet/Attributes/exclusive",
+    "link-uuid": "0024a765-d74f-4386-ab3f-8791992129bd",
+    "title": "exclusive",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682815648
+  },
+  "references/eClassifiers/XSDTerm/index.html": {
+    "link-uuid": "7c66f793-8d5f-4526-8060-e6d9ea752a2c",
+    "title": "XSDTerm",
+    "content": "Diagram ",
+    "timestamp": 1775682817393
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/node/index.html": {
+    "path": "XSDDiagnostic/Attributes/node",
+    "link-uuid": "6730c0d2-3a82-47c3-875c-2d8b5a03a38a",
+    "title": "node",
+    "content": "Type DOMNode Multiplicity 0..1",
+    "timestamp": 1775682814422
+  },
+  "references/eClassifiers/XSDLengthFacet/inheritance.html": {
+    "path": "XSDLengthFacet/Inheritance",
+    "link-uuid": "fba0c59e-ef96-4982-a9e2-77fd7df52235",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815242
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/baseTypeDefinition/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/baseTypeDefinition",
+    "link-uuid": "3bd2744a-77c7-45fb-ad34-1f2bd815b03d",
+    "title": "baseTypeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 1",
+    "timestamp": 1775682817121
+  },
+  "references/eClassifiers/XSDBoundedFacet/index.html": {
+    "link-uuid": "69ff70fb-5423-4996-a3ff-2696a749423f",
+    "title": "XSDBoundedFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682813818
+  },
+  "references/eClassifiers/XSDFundamentalFacet/index.html": {
+    "link-uuid": "5fe88463-4699-4cfc-9934-f25a4fd0ee42",
+    "title": "XSDFundamentalFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682814994
+  },
+  "references/eClassifiers/XSDXPathDefinition/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDXPathDefinition/References/annotation",
+    "link-uuid": "1d5500ec-e593-4ceb-ba59-0966679b4291",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682817794
+  },
+  "references/eClassifiers/XSDMinInclusiveFacet/inheritance.html": {
+    "path": "XSDMinInclusiveFacet/Inheritance",
+    "link-uuid": "f98d9049-bd38-49d1-b038-25d8274ffbce",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815722
+  },
+  "references/eClassifiers/XSDAnnotation/references/eStructuralFeatures/attributes/index.html": {
+    "path": "XSDAnnotation/Attributes/attributes",
+    "link-uuid": "43859b9d-7220-4b14-9913-7111606187e7",
+    "title": "attributes",
+    "content": "Type DOMAttr Multiplicity 0..*",
+    "timestamp": 1775682813356
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/nillable/index.html": {
+    "path": "XSDElementDeclaration/Attributes/nillable",
+    "link-uuid": "171f6b30-7321-478a-bc31-5cd7f48dbd0d",
+    "title": "nillable",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814562
+  },
+  "references/eClassifiers/XSDMaxFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDMaxFacet/Attributes/value",
+    "link-uuid": "9dcc58ce-3470-4bd4-a666-cb924b93f954",
+    "title": "value",
+    "content": "Type Value Multiplicity 0..1",
+    "timestamp": 1775682815380
+  },
+  "references/eClassifiers/XSDMaxFacet/references/eStructuralFeatures/exclusive/index.html": {
+    "path": "XSDMaxFacet/Attributes/exclusive",
+    "link-uuid": "be2c6798-8d32-4009-8139-c29695e36853",
+    "title": "exclusive",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682815369
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/originalVersion/index.html": {
+    "path": "XSDSchema/References/originalVersion",
+    "link-uuid": "cff96e47-08a9-4bc3-8273-1f293bea915a",
+    "title": "originalVersion",
+    "content": "Type XSDSchema Multiplicity 0..1",
+    "timestamp": 1775682816804
+  },
+  "references/eClassifiers/XSDWildcard/references/eStructuralFeatures/namespaceConstraintCategory/index.html": {
+    "path": "XSDWildcard/Attributes/namespaceConstraintCategory",
+    "link-uuid": "8e8291bd-eee7-4cd1-a68d-cd398e5cef18",
+    "title": "namespaceConstraintCategory",
+    "content": "Type XSDNamespaceConstraintCategory Multiplicity 0..1",
+    "timestamp": 1775682817737
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/featureReference/index.html": {
+    "path": "XSDFeature/Attributes/featureReference",
+    "link-uuid": "ca84c165-abb3-45e8-97e3-52c0d0ee84e7",
+    "title": "featureReference",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814796
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/referencedKey/index.html": {
+    "path": "XSDIdentityConstraintDefinition/References/referencedKey",
+    "link-uuid": "5994590d-ae7b-4e7c-a11b-f8a24f486283",
+    "title": "referencedKey",
+    "content": "Type XSDIdentityConstraintDefinition Multiplicity 0..1",
+    "timestamp": 1775682815082
+  },
+  "references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/rootContainer/index.html": {
+    "path": "XSDConcreteComponent/References/rootContainer",
+    "link-uuid": "ddf7dd6e-7160-45af-b411-213ad11bc493",
+    "title": "rootContainer",
+    "content": "Type XSDConcreteComponent Multiplicity 1",
+    "timestamp": 1775682814255
+  },
+  "references/eClassifiers/XSDMaxLengthFacet/index.html": {
+    "link-uuid": "714ada1c-6daa-43a5-be33-8944774a7750",
+    "title": "XSDMaxLengthFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815494
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDFeature/Attributes/value",
+    "link-uuid": "fefca3cf-9cdb-4272-a80b-c1b82e756dd0",
+    "title": "value",
+    "content": "Type Value Multiplicity 0..1",
+    "timestamp": 1775682814834
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/index.html": {
+    "link-uuid": "792d93f5-0a22-4253-8f5b-71472f6a464c",
+    "title": "XSDAttributeDeclaration",
+    "content": "Diagram ",
+    "timestamp": 1775682813440
+  },
+  "references/eClassifiers/XSDMaxFacet/references/eStructuralFeatures/inclusive/index.html": {
+    "path": "XSDMaxFacet/Attributes/inclusive",
+    "link-uuid": "40a56125-9492-4908-9b1c-d7d2cc77e203",
+    "title": "inclusive",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682815375
+  },
+  "index.html": {
+    "link-uuid": "26451f97-1941-4f60-bd95-19f7c066a825",
+    "title": "XML Schema Model",
+    "content": " XSDDiagnostic XSDMinFacet XSDPatternFacet XSDElementDeclaration resolvedElementDeclaration substitutionGroupAffiliation substitutionGroup XSDSimpleFinal XSDConcreteComponent diagnostics container rootContainer components primaryComponent XSDFeature resolvedFeature XSDOrderedFacet XSDSubstitutionGroupExclusions XSDInclude XSDSchemaCompositor XSDXPathDefinition XSDImport XSDDerivationMethod XSDTerm XSDIdentityConstraintCategory XSDFractionDigitsFacet DOMAttr DOMDocument XSDDiagnosticSeverity XSDWildcard XSDForm XSDFundamentalFacet XSDMinInclusiveFacet XSDCardinality XSDModelGroupDefinition resolvedModelGroupDefinition XSDMaxLengthFacet XSDNotationDeclaration XSDAttributeGroupDefinition attributeWildcardContent attributeWildcard syntheticWildcard resolvedAttributeGroupDefinition DOMNode XSDBoundedFacet XSDContentTypeCategory XSDParticle term XSDMinExclusiveFacet XSDSchema modelGroupDefinitions notationDeclarations elementDeclarations allDiagnostics attributeGroupDefinitions rootVersion originalVersion incorporatedVersions schemaForSchema incorporatedSchema schema XSDVariety XSDAttributeUseCategory DOMElement XSDSchemaContent contents XSDSimpleTypeDefinition fractionDigitsFacet effectiveFractionDigitsFacet fundamentalFacets boundedFacet orderedFacet maxLengthFacet effectiveMaxLengthFacet minInclusiveFacet minFacet effectiveMinFacet patternFacets effectivePatternFacet minExclusiveFacet contents memberTypeDefinitions baseTypeDefinition primitiveTypeDefinition itemTypeDefinition rootTypeDefinition XSDModelGroup contents particles modelGroup XSDOrdered XSDDisallowedSubstitutions XSDSchemaDirective resolvedSchema referencingDirectives XSDTypeDefinition simpleType complexType rootType baseType typeDefinitions type anonymousTypeDefinition typeDefinition XSDConstraint XSDMaxInclusiveFacet maxInclusiveFacet XSDNamedComponent XSDProhibitedSubstitutions XSDRedefineContent XSDComplexTypeContent XSDNamespaceConstraintCategory XSDRedefine contents XSDAttributeDeclaration anonymousTypeDefinition typeDefinition resolvedAttributeDeclaration attributeDeclarations XSDCardinalityFacet cardinalityFacet XSDLengthFacet lengthFacet effectiveLengthFacet XSDFacet simpleTypeDefinition syntheticFacets XSDFixedFacet XSDWhiteSpace XSDComplexFinal XSDMinLengthFacet minLengthFacet effectiveMinLengthFacet XSDConstrainingFacet facetContents facets XSDProcessContents XSDMaxFacet maxFacet effectiveMaxFacet XSDComponent XSDNumericFacet numericFacet Value XSDAnnotation annotation annotation annotations annotation derivationAnnotation annotations annotation annotations annotation annotation annotation annotation annotations annotation annotation annotation annotation XSDParticleContent content XSDRedefinableComponent XSDMaxExclusiveFacet maxExclusiveFacet XSDAttributeUse attributeDeclaration content attributeUses XSDComplexTypeDefinition contentAnnotation attributeUses syntheticParticle content contentType baseTypeDefinition rootTypeDefinition attributeWildcard attributeWildcardContent syntheticWildcard XSDCompositor XSDAttributeGroupContent attributeContents contents XSDXPathVariety XSDScope scope XSDIdentityConstraintDefinition annotation selector fields referencedKey identityConstraintDefinitions identityConstraintDefinitions XSDRepeatableFacet annotations XSDWhiteSpaceFacet whiteSpaceFacet effectiveWhiteSpaceFacet XSDEnumerationFacet enumerationFacets effectiveEnumerationFacet XSDTotalDigitsFacet totalDigitsFacet effectiveTotalDigitsFacet XSD",
+    "timestamp": 1775682813182
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxExclusiveFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/maxExclusiveFacet",
+    "link-uuid": "9a6e0358-6ed7-441d-bc5e-9789d13e7ba0",
+    "title": "maxExclusiveFacet",
+    "content": "Type XSDMaxExclusiveFacet Multiplicity 0..1",
+    "timestamp": 1775682817235
+  },
+  "references/eClassifiers/XSDParticle/index.html": {
+    "link-uuid": "f52bf037-3c15-4273-995d-978302b76f03",
+    "title": "XSDParticle",
+    "content": "Diagram ",
+    "timestamp": 1775682816302
+  },
+  "references/eClassifiers/XSDModelGroup/index.html": {
+    "link-uuid": "d6360d20-a868-49f3-ae52-e0ad3a5173da",
+    "title": "XSDModelGroup",
+    "content": "Diagram ",
+    "timestamp": 1775682815847
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/derivationAnnotation/index.html": {
+    "path": "XSDTypeDefinition/References/derivationAnnotation",
+    "link-uuid": "54e14dd3-a40b-490c-9dd6-4a83512efa69",
+    "title": "derivationAnnotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682817583
+  },
+  "references/eClassifiers/XSDMaxInclusiveFacet/inheritance.html": {
+    "path": "XSDMaxInclusiveFacet/Inheritance",
+    "link-uuid": "97293839-40f4-4906-8f91-8331973c1b2a",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815438
+  },
+  "references/eClassifiers/XSDWhiteSpaceFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDWhiteSpaceFacet/Attributes/value",
+    "link-uuid": "220abcf3-580d-4590-b80e-f1ecc1e71f01",
+    "title": "value",
+    "content": "Type XSDWhiteSpace Multiplicity 0..1",
+    "timestamp": 1775682817659
+  },
+  "references/eClassifiers/XSDElementDeclaration/inheritance.html": {
+    "path": "XSDElementDeclaration/Inheritance",
+    "link-uuid": "5ae9223b-398d-40fb-b544-c65705e35ccd",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682814505
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeWildcard/index.html": {
+    "path": "XSDComplexTypeDefinition/References/attributeWildcard",
+    "link-uuid": "9603ec4d-f4c1-42db-bdcc-e41804c0d2c9",
+    "title": "attributeWildcard",
+    "content": "Type XSDWildcard Multiplicity 0..1",
+    "timestamp": 1775682814046
+  },
+  "references/eClassifiers/XSDWhiteSpaceFacet/inheritance.html": {
+    "path": "XSDWhiteSpaceFacet/Inheritance",
+    "link-uuid": "b4b6912c-0760-4b3b-b3cc-d7937a769c6a",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682817649
+  },
+  "references/eClassifiers/XSDNotationDeclaration/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDNotationDeclaration/References/annotation",
+    "link-uuid": "66b06d54-f8a5-487b-8564-6a2b9e08b304",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682816127
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/severity/index.html": {
+    "path": "XSDDiagnostic/Attributes/severity",
+    "link-uuid": "77c81678-1277-4bc4-80fc-4c926749faf1",
+    "title": "severity",
+    "content": "Type XSDDiagnosticSeverity Multiplicity 0..1",
+    "timestamp": 1775682814432
+  },
+  "references/eClassifiers/XSDNotationDeclaration/references/eStructuralFeatures/publicIdentifier/index.html": {
+    "path": "XSDNotationDeclaration/Attributes/publicIdentifier",
+    "link-uuid": "d1218f56-9590-469e-aea6-ffc0ff963354",
+    "title": "publicIdentifier",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816132
+  },
+  "references/eClassifiers/XSDFeature/index.html": {
+    "link-uuid": "aed32994-3060-4b61-b9b8-836cea57f867",
+    "title": "XSDFeature",
+    "content": "Diagram ",
+    "timestamp": 1775682814780
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/circular/index.html": {
+    "path": "XSDElementDeclaration/Attributes/circular",
+    "link-uuid": "5940ba66-5ae7-4b19-8004-df10479ff88e",
+    "title": "circular",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814535
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/substitutionGroupAffiliation/index.html": {
+    "path": "XSDElementDeclaration/References/substitutionGroupAffiliation",
+    "link-uuid": "29a61981-f325-4b52-9ec9-e8bb5acbcf42",
+    "title": "substitutionGroupAffiliation",
+    "content": "Type XSDElementDeclaration Multiplicity 0..1",
+    "timestamp": 1775682814577
+  },
+  "references/eClassifiers/XSDFixedFacet/references/eStructuralFeatures/fixed/index.html": {
+    "path": "XSDFixedFacet/Attributes/fixed",
+    "link-uuid": "31898ca5-0c8e-4455-b5d4-bbbd2e5ea5b8",
+    "title": "fixed",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814885
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/targetNamespace/index.html": {
+    "path": "XSDSchema/Attributes/targetNamespace",
+    "link-uuid": "89402601-1557-4c25-86e2-6c767af89b60",
+    "title": "targetNamespace",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816828
+  },
+  "references/eClassifiers/XSDParticleContent/index.html": {
+    "link-uuid": "36b5c86e-e2f5-472c-b1d5-c91e06c5c93e",
+    "title": "XSDParticleContent",
+    "content": "Diagram ",
+    "timestamp": 1775682816370
+  },
+  "references/eClassifiers/XSDOrderedFacet/index.html": {
+    "link-uuid": "3fc7f6aa-8d5b-4fac-9225-a44374e23da6",
+    "title": "XSDOrderedFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682816243
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/inheritance.html": {
+    "path": "XSDComplexTypeDefinition/Inheritance",
+    "link-uuid": "ad9fda56-fc23-4b46-a529-76e0dd15b2d2",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682814017
+  },
+  "references/eClassifiers/XSDParticle/inheritance.html": {
+    "path": "XSDParticle/Inheritance",
+    "link-uuid": "025c3dfd-0dd5-438e-87ea-92f4dbd363a7",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816307
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/cardinalityFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/cardinalityFacet",
+    "link-uuid": "914f4b5d-7004-478c-9666-821a160a68c9",
+    "title": "cardinalityFacet",
+    "content": "Type XSDCardinalityFacet Multiplicity 1",
+    "timestamp": 1775682817131
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/contentType/index.html": {
+    "path": "XSDComplexTypeDefinition/References/contentType",
+    "link-uuid": "4d2e5252-2042-4cc0-8884-e18a14f9b594",
+    "title": "contentType",
+    "content": "Type XSDComplexTypeContent Multiplicity 0..1",
+    "timestamp": 1775682814077
+  },
+  "references/eClassifiers/XSDMinInclusiveFacet/index.html": {
+    "link-uuid": "6db5224e-1e42-41fa-b513-bd2e225af1f8",
+    "title": "XSDMinInclusiveFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815717
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/contentTypeCategory/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/contentTypeCategory",
+    "link-uuid": "be1295d0-12c6-418f-9577-a1ce9355f01c",
+    "title": "contentTypeCategory",
+    "content": "Type XSDContentTypeCategory Multiplicity 0..1",
+    "timestamp": 1775682814082
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/inheritance.html": {
+    "path": "XSDSimpleTypeDefinition/Inheritance",
+    "link-uuid": "d10b28c5-ded4-44c8-be67-5fe10a43c72f",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682817110
+  },
+  "references/eClassifiers/XSDScope/inheritance.html": {
+    "path": "XSDScope/Inheritance",
+    "link-uuid": "38e58f56-1264-4148-9170-82a6613df69f",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682817046
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/minFacet",
+    "link-uuid": "e9a8d87a-2855-4881-b997-a7821d0f6b86",
+    "title": "minFacet",
+    "content": "Type XSDMinFacet Multiplicity 0..1",
+    "timestamp": 1775682817264
+  },
+  "references/eClassifiers/XSDSchemaDirective/references/eStructuralFeatures/schemaLocation/index.html": {
+    "path": "XSDSchemaDirective/Attributes/schemaLocation",
+    "link-uuid": "e32ba030-9b1f-47db-9286-8b6b88b0280b",
+    "title": "schemaLocation",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816998
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/totalDigitsFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/totalDigitsFacet",
+    "link-uuid": "2ddd9806-27d9-4a1c-b418-ac215b786d5c",
+    "title": "totalDigitsFacet",
+    "content": "Type XSDTotalDigitsFacet Multiplicity 0..1",
+    "timestamp": 1775682817308
+  },
+  "references/eClassifiers/XSDInclude/inheritance.html": {
+    "path": "XSDInclude/Inheritance",
+    "link-uuid": "95ef9046-f04a-43bd-8e8d-e3050d4e76c2",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815184
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/typeDefinition/index.html": {
+    "path": "XSDAttributeDeclaration/References/typeDefinition",
+    "link-uuid": "c73a2354-76f1-414c-8842-8a16de821451",
+    "title": "typeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 1",
+    "timestamp": 1775682813483
+  },
+  "references/eClassifiers/XSDConcreteComponent/inheritance.html": {
+    "path": "XSDConcreteComponent/Inheritance",
+    "link-uuid": "ac56243b-873c-4e87-9caf-30ffc315118a",
+    "title": "Inheritance",
+    "content": "Subtypes ",
+    "timestamp": 1775682814234
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/identityConstraintDefinitions/index.html": {
+    "path": "XSDElementDeclaration/References/identityConstraintDefinitions",
+    "link-uuid": "b94d274f-7f1e-420c-8531-46ca9e3259ca",
+    "title": "identityConstraintDefinitions",
+    "content": "Type XSDIdentityConstraintDefinition Multiplicity 0..*",
+    "timestamp": 1775682814551
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/block/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/block",
+    "link-uuid": "0964fd80-88fa-4cdd-a443-d58acd789c82",
+    "title": "block",
+    "content": "Type XSDProhibitedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682814062
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/lexicalFinal/index.html": {
+    "path": "XSDElementDeclaration/Attributes/lexicalFinal",
+    "link-uuid": "6dba69bb-e8e5-4bf0-aa18-502d8d6b5c44",
+    "title": "lexicalFinal",
+    "content": "Type XSDProhibitedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682814556
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/variety/index.html": {
+    "path": "XSDSimpleTypeDefinition/Attributes/variety",
+    "link-uuid": "bc310f0b-afd7-460a-b8e4-bd162eff6fec",
+    "title": "variety",
+    "content": "Type XSDVariety Multiplicity 0..1",
+    "timestamp": 1775682817318
+  },
+  "references/eClassifiers/XSDWildcard/references/eStructuralFeatures/annotations/index.html": {
+    "path": "XSDWildcard/References/annotations",
+    "link-uuid": "d67087bf-3352-4141-b9d9-e341c2b61343",
+    "title": "annotations",
+    "content": "Type XSDAnnotation Multiplicity 0..*",
+    "timestamp": 1775682817721
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeWildcard/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/attributeWildcard",
+    "link-uuid": "d2164cb2-c3c5-4d82-9eb2-ddcf55dadaec",
+    "title": "attributeWildcard",
+    "content": "Type XSDWildcard Multiplicity 0..1",
+    "timestamp": 1775682813631
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/resolvedElementDeclaration/index.html": {
+    "path": "XSDElementDeclaration/References/resolvedElementDeclaration",
+    "link-uuid": "95feda52-23d2-4966-b925-5a8b1014e017",
+    "title": "resolvedElementDeclaration",
+    "content": "Type XSDElementDeclaration Multiplicity 1",
+    "timestamp": 1775682814567
+  },
+  "references/eClassifiers/XSDFacet/references/eStructuralFeatures/lexicalValue/index.html": {
+    "path": "XSDFacet/Attributes/lexicalValue",
+    "link-uuid": "d81868fc-fb02-49f6-a903-6134812a995e",
+    "title": "lexicalValue",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814730
+  },
+  "references/eClassifiers/XSDCardinalityFacet/inheritance.html": {
+    "path": "XSDCardinalityFacet/Inheritance",
+    "link-uuid": "82a64df8-6c43-4c55-9e8b-a3fb9eed118b",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682813890
+  },
+  "references/eClassifiers/XSDNamedComponent/references/eStructuralFeatures/targetNamespace/index.html": {
+    "path": "XSDNamedComponent/Attributes/targetNamespace",
+    "link-uuid": "e451490e-7772-4fa7-b146-09612b5f2b32",
+    "title": "targetNamespace",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816057
+  },
+  "references/eClassifiers/XSDComplexTypeContent/inheritance.html": {
+    "path": "XSDComplexTypeContent/Inheritance",
+    "link-uuid": "62f8785b-f5b8-4db1-86ad-f688190c65d6",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682813964
+  },
+  "references/eClassifiers/XSDParticle/references/eStructuralFeatures/term/index.html": {
+    "path": "XSDParticle/References/term",
+    "link-uuid": "1775b74f-13c7-46ff-8e59-4bda6ce79d8d",
+    "title": "term",
+    "content": "Type XSDTerm Multiplicity 1",
+    "timestamp": 1775682816333
+  },
+  "references/eClassifiers/XSDFacet/inheritance.html": {
+    "path": "XSDFacet/Inheritance",
+    "link-uuid": "88f8e9c8-b1fb-4bfe-8534-888d49c769b1",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682814708
+  },
+  "references/eClassifiers/XSDInclude/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDInclude/References/annotation",
+    "link-uuid": "5bd06105-c309-4dc0-b90e-48da23e40ab0",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682815194
+  },
+  "references/eClassifiers/XSDFacet/references/eStructuralFeatures/simpleTypeDefinition/index.html": {
+    "path": "XSDFacet/References/simpleTypeDefinition",
+    "link-uuid": "011eadbb-d190-44bc-aa41-fa8b9e80ee79",
+    "title": "simpleTypeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..1",
+    "timestamp": 1775682814735
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/boundedFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/boundedFacet",
+    "link-uuid": "bb7f251e-ff08-4362-9649-453b57a6b43e",
+    "title": "boundedFacet",
+    "content": "Type XSDBoundedFacet Multiplicity 1",
+    "timestamp": 1775682817126
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/block/index.html": {
+    "path": "XSDElementDeclaration/Attributes/block",
+    "link-uuid": "b6f688e4-b796-4822-8e85-542fc47e4b6f",
+    "title": "block",
+    "content": "Type XSDDisallowedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682814530
+  },
+  "references/eClassifiers/XSDRedefineContent/index.html": {
+    "link-uuid": "dc2cd265-c402-4234-902e-72b3b25a9a96",
+    "title": "XSDRedefineContent",
+    "content": "Diagram ",
+    "timestamp": 1775682816593
+  },
+  "references/eClassifiers/XSDSchemaCompositor/inheritance.html": {
+    "path": "XSDSchemaCompositor/Inheritance",
+    "link-uuid": "b4d8622e-02bf-4bf1-8b95-b548195ab8af",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816885
+  },
+  "references/eClassifiers/XSDNotationDeclaration/inheritance.html": {
+    "path": "XSDNotationDeclaration/Inheritance",
+    "link-uuid": "d33b9319-a95b-4f85-87b9-cea937891c55",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816116
+  },
+  "references/eClassifiers/XSDMinFacet/index.html": {
+    "link-uuid": "15a9986d-4c33-434e-adc9-d96444319eee",
+    "title": "XSDMinFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815633
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/attributeGroupDefinitions/index.html": {
+    "path": "XSDSchema/References/attributeGroupDefinitions",
+    "link-uuid": "4d8d6fcc-c0e1-49ed-9555-8a35b62f5b3d",
+    "title": "attributeGroupDefinitions",
+    "content": "Type XSDAttributeGroupDefinition Multiplicity 0..*",
+    "timestamp": 1775682816749
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/syntheticFacets/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/syntheticFacets",
+    "link-uuid": "5d050fe5-ad6f-4036-9a15-c407db56965f",
+    "title": "syntheticFacets",
+    "content": "Type XSDFacet Multiplicity 0..*",
+    "timestamp": 1775682817303
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/derivationMethod/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/derivationMethod",
+    "link-uuid": "bd31232e-f033-4c3c-90d3-7f7dffa18a2b",
+    "title": "derivationMethod",
+    "content": "Type XSDDerivationMethod Multiplicity 0..1",
+    "timestamp": 1775682814088
+  },
+  "references/eClassifiers/XSDRedefine/references/eStructuralFeatures/annotations/index.html": {
+    "path": "XSDRedefine/References/annotations",
+    "link-uuid": "f2f9da36-8529-4689-a949-36b67f7e034d",
+    "title": "annotations",
+    "content": "Type XSDAnnotation Multiplicity 0..*",
+    "timestamp": 1775682816547
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/facetContents/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/facetContents",
+    "link-uuid": "63612f31-b246-4a31-9775-bd4a5a65ba4d",
+    "title": "facetContents",
+    "content": "Type XSDConstrainingFacet Multiplicity 0..*",
+    "timestamp": 1775682817195
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/locationURI/index.html": {
+    "path": "XSDDiagnostic/Attributes/locationURI",
+    "link-uuid": "17945c1f-43a4-46db-8e6a-5f8daf0e7e67",
+    "title": "locationURI",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814412
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/constraint/index.html": {
+    "path": "XSDFeature/Attributes/constraint",
+    "link-uuid": "0c80047d-b2c3-4679-a9c1-d517643a18ce",
+    "title": "constraint",
+    "content": "Type XSDConstraint Multiplicity 0..1",
+    "timestamp": 1775682814790
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/patternFacets/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/patternFacets",
+    "link-uuid": "3e0e0bb5-6a23-4d36-a7a0-bc47c99a60ef",
+    "title": "patternFacets",
+    "content": "Type XSDPatternFacet Multiplicity 0..*",
+    "timestamp": 1775682817289
+  },
+  "references/eClassifiers/XSDNamedComponent/references/eStructuralFeatures/aliasURI/index.html": {
+    "path": "XSDNamedComponent/Attributes/aliasURI",
+    "link-uuid": "c4cbcb36-b376-4e88-bc6c-da2520978aa4",
+    "title": "aliasURI",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816042
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDAttributeDeclaration/References/annotation",
+    "link-uuid": "50fca6cf-fa37-4d27-b1a7-74fc0ad4ea8a",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682813459
+  },
+  "references/eClassifiers/XSDImport/index.html": {
+    "link-uuid": "12dbdf36-235e-4d46-bb69-abbc520e090c",
+    "title": "XSDImport",
+    "content": "Diagram ",
+    "timestamp": 1775682815123
+  },
+  "references/eClassifiers/XSDNamedComponent/index.html": {
+    "link-uuid": "94b7661f-57a0-49e5-a32d-cf35c9e84bb7",
+    "title": "XSDNamedComponent",
+    "content": "Diagram ",
+    "timestamp": 1775682816020
+  },
+  "references/eClassifiers/XSDOrderedFacet/inheritance.html": {
+    "path": "XSDOrderedFacet/Inheritance",
+    "link-uuid": "c9dce6ca-dd87-4a9a-847b-0b19dbd43a0b",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816248
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/prohibitedSubstitutions/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/prohibitedSubstitutions",
+    "link-uuid": "c7a0d359-b2b0-480a-a9fd-fedc182c0df8",
+    "title": "prohibitedSubstitutions",
+    "content": "Type XSDProhibitedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682814110
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/attributeDeclarations/index.html": {
+    "path": "XSDSchema/References/attributeDeclarations",
+    "link-uuid": "67aadf31-422c-4b37-8a00-d4974f6eeba1",
+    "title": "attributeDeclarations",
+    "content": "Type XSDAttributeDeclaration Multiplicity 0..*",
+    "timestamp": 1775682816739
+  },
+  "references/eClassifiers/XSDDiagnostic/index.html": {
+    "link-uuid": "f6d5a669-e9cc-425b-9c2a-413a315ec8d4",
+    "title": "XSDDiagnostic",
+    "content": "Diagram ",
+    "timestamp": 1775682814371
+  },
+  "references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/resolvedModelGroupDefinition/index.html": {
+    "path": "XSDModelGroupDefinition/References/resolvedModelGroupDefinition",
+    "link-uuid": "c8876bc0-a1d8-4d27-88a7-e2342a1b4a62",
+    "title": "resolvedModelGroupDefinition",
+    "content": "Type XSDModelGroupDefinition Multiplicity 1",
+    "timestamp": 1775682815979
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/inheritance.html": {
+    "path": "XSDIdentityConstraintDefinition/Inheritance",
+    "link-uuid": "34fb552b-176b-43a4-b51a-610064737988",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815057
+  },
+  "references/eClassifiers/XSDWildcard/index.html": {
+    "link-uuid": "3dcd5173-24b1-470b-a219-08ef1366b30a",
+    "title": "XSDWildcard",
+    "content": "Diagram ",
+    "timestamp": 1775682817700
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/schemaForSchema/index.html": {
+    "path": "XSDSchema/References/schemaForSchema",
+    "link-uuid": "4b983069-4354-458a-953a-e177e624a9cc",
+    "title": "schemaForSchema",
+    "content": "Type XSDSchema Multiplicity 1",
+    "timestamp": 1775682816818
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/annotations/index.html": {
+    "path": "XSDTypeDefinition/References/annotations",
+    "link-uuid": "ce69bd5a-e485-4bb8-9eb9-e31e4498da5a",
+    "title": "annotations",
+    "content": "Type XSDAnnotation Multiplicity 0..*",
+    "timestamp": 1775682817568
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeWildcardContent/index.html": {
+    "path": "XSDComplexTypeDefinition/References/attributeWildcardContent",
+    "link-uuid": "3b3d8b3c-3ed8-43be-99f0-5d0f018254e7",
+    "title": "attributeWildcardContent",
+    "content": "Type XSDWildcard Multiplicity 0..1",
+    "timestamp": 1775682814052
+  },
+  "references/eClassifiers/XSDImport/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDImport/References/annotation",
+    "link-uuid": "f5a663c2-4673-42f7-8357-bedcbf2e0e54",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682815138
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/incorporatedVersions/index.html": {
+    "path": "XSDSchema/References/incorporatedVersions",
+    "link-uuid": "4aa81b92-33d7-446a-a40a-0b455884bcff",
+    "title": "incorporatedVersions",
+    "content": "Type XSDSchema Multiplicity 0..*",
+    "timestamp": 1775682816789
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/identityConstraintDefinitions/index.html": {
+    "path": "XSDSchema/References/identityConstraintDefinitions",
+    "link-uuid": "c6c04563-5b6d-40ce-a6ec-cfa1907ed269",
+    "title": "identityConstraintDefinitions",
+    "content": "Type XSDIdentityConstraintDefinition Multiplicity 0..*",
+    "timestamp": 1775682816784
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDTypeDefinition/References/annotation",
+    "link-uuid": "1f845e9b-84fe-4169-b56b-48c98fb98ea6",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682817563
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/form/index.html": {
+    "path": "XSDFeature/Attributes/form",
+    "link-uuid": "5b695e4d-0ace-41e7-9418-78410d8ad9f7",
+    "title": "form",
+    "content": "Type XSDForm Multiplicity 0..1",
+    "timestamp": 1775682814803
+  },
+  "references/eClassifiers/XSDXPathDefinition/index.html": {
+    "link-uuid": "4b9e9b92-8acd-4758-86a7-56b0e16227a4",
+    "title": "XSDXPathDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682817779
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/index.html": {
+    "link-uuid": "1eeea346-219b-4e24-84f7-fd081bb56194",
+    "title": "XSDComplexTypeDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682814012
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/attributeDeclarationReference/index.html": {
+    "path": "XSDAttributeDeclaration/Attributes/attributeDeclarationReference",
+    "link-uuid": "2b2f10c3-c1c4-4d7c-9124-5240eb5d6e12",
+    "title": "attributeDeclarationReference",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682813472
+  },
+  "references/eClassifiers/XSDRepeatableFacet/references/eStructuralFeatures/annotations/index.html": {
+    "path": "XSDRepeatableFacet/References/annotations",
+    "link-uuid": "60c6ddf3-82aa-4ce3-9c19-c8cffa47fc49",
+    "title": "annotations",
+    "content": "Type XSDAnnotation Multiplicity 0..*",
+    "timestamp": 1775682816646
+  },
+  "references/eClassifiers/XSDTotalDigitsFacet/inheritance.html": {
+    "path": "XSDTotalDigitsFacet/Inheritance",
+    "link-uuid": "42b2efed-cbbc-4fe0-8c2c-2cc26b842502",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682817467
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/identityConstraintCategory/index.html": {
+    "path": "XSDIdentityConstraintDefinition/Attributes/identityConstraintCategory",
+    "link-uuid": "d3dd29ba-3ab3-48f0-b652-bb22601a49ca",
+    "title": "identityConstraintCategory",
+    "content": "Type XSDIdentityConstraintCategory Multiplicity 0..1",
+    "timestamp": 1775682815077
+  },
+  "references/eClassifiers/XSDRedefine/references/eStructuralFeatures/contents/index.html": {
+    "path": "XSDRedefine/References/contents",
+    "link-uuid": "02c32e23-b20a-4c20-8c73-a6433f4e3842",
+    "title": "contents",
+    "content": "Type XSDRedefineContent Multiplicity 0..*",
+    "timestamp": 1775682816551
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/annotations/index.html": {
+    "path": "XSDSchema/References/annotations",
+    "link-uuid": "6d3c8dca-8c18-4368-8c7f-c8064fdf1a75",
+    "title": "annotations",
+    "content": "Type XSDAnnotation Multiplicity 0..*",
+    "timestamp": 1775682816726
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDAttributeUse/Attributes/value",
+    "link-uuid": "77cbd940-5c22-4b2e-ba02-820b8b37bcbd",
+    "title": "value",
+    "content": "Type Value Multiplicity 0..1",
+    "timestamp": 1775682813763
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/baseType/index.html": {
+    "path": "XSDTypeDefinition/References/baseType",
+    "link-uuid": "e6b6008f-fe12-41aa-a7e1-b8a80f807fec",
+    "title": "baseType",
+    "content": "Type XSDTypeDefinition Multiplicity 1",
+    "timestamp": 1775682817573
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/lexicalValue/index.html": {
+    "path": "XSDAttributeUse/Attributes/lexicalValue",
+    "link-uuid": "59a72c7b-41d5-4141-88a8-f42644eadb5e",
+    "title": "lexicalValue",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682813744
+  },
+  "references/eClassifiers/XSDOrderedFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDOrderedFacet/Attributes/value",
+    "link-uuid": "a0c471b5-1573-45de-8500-daecd5303470",
+    "title": "value",
+    "content": "Type XSDOrdered Multiplicity 0..1",
+    "timestamp": 1775682816259
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeUses/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/attributeUses",
+    "link-uuid": "8a215629-1e74-4ec6-b055-6410b30b99f9",
+    "title": "attributeUses",
+    "content": "Type XSDAttributeUse Multiplicity 0..*",
+    "timestamp": 1775682813624
+  },
+  "references/eClassifiers/XSDSchema/index.html": {
+    "link-uuid": "c9ac65d4-fae4-45c6-af6f-d600ac5d3520",
+    "title": "XSDSchema",
+    "content": "Diagram ",
+    "timestamp": 1775682816705
+  },
+  "references/eClassifiers/XSDFractionDigitsFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDFractionDigitsFacet/Attributes/value",
+    "link-uuid": "5735c6b9-edd5-414b-bddb-0467e94b8834",
+    "title": "value",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682814946
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveLengthFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveLengthFacet",
+    "link-uuid": "1baf55f2-51b0-4284-b3bd-e4ecbd66f6f7",
+    "title": "effectiveLengthFacet",
+    "content": "Type XSDLengthFacet Multiplicity 0..1",
+    "timestamp": 1775682817151
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/required/index.html": {
+    "path": "XSDAttributeUse/Attributes/required",
+    "link-uuid": "ca3bb63e-2a5d-4a77-81da-cafee00bb789",
+    "title": "required",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682813750
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMaxLengthFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveMaxLengthFacet",
+    "link-uuid": "4682ea4b-e95d-4776-8dd8-5d8b2764b435",
+    "title": "effectiveMaxLengthFacet",
+    "content": "Type XSDMaxLengthFacet Multiplicity 0..1",
+    "timestamp": 1775682817161
+  },
+  "references/eClassifiers/XSDPatternFacet/index.html": {
+    "link-uuid": "ecbc9fe1-ff12-4aa0-8e4e-195140a6bafa",
+    "title": "XSDPatternFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682816419
+  },
+  "references/eClassifiers/XSDFractionDigitsFacet/inheritance.html": {
+    "path": "XSDFractionDigitsFacet/Inheritance",
+    "link-uuid": "8754792c-cb98-443e-a380-bcf973b5ebde",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682814937
+  },
+  "references/eClassifiers/XSDImport/references/eStructuralFeatures/namespace/index.html": {
+    "path": "XSDImport/Attributes/namespace",
+    "link-uuid": "d604078d-cf00-497a-8961-f24c4e5b369f",
+    "title": "namespace",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682815143
+  },
+  "references/eClassifiers/XSDParticle/references/eStructuralFeatures/maxOccurs/index.html": {
+    "path": "XSDParticle/Attributes/maxOccurs",
+    "link-uuid": "d19fc5ce-4047-4af9-9381-9dbb10b4dc12",
+    "title": "maxOccurs",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682816323
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/resolvedAttributeDeclaration/index.html": {
+    "path": "XSDAttributeDeclaration/References/resolvedAttributeDeclaration",
+    "link-uuid": "98f2b582-7c8a-4ea1-9983-fcd3185d1c34",
+    "title": "resolvedAttributeDeclaration",
+    "content": "Type XSDAttributeDeclaration Multiplicity 1",
+    "timestamp": 1775682813477
+  },
+  "references/eClassifiers/XSDCardinalityFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDCardinalityFacet/Attributes/value",
+    "link-uuid": "98e8c69d-6f54-4dea-b2cf-e198874d12e6",
+    "title": "value",
+    "content": "Type XSDCardinality Multiplicity 0..1",
+    "timestamp": 1775682813902
+  },
+  "references/eClassifiers/XSDSchema/inheritance.html": {
+    "path": "XSDSchema/Inheritance",
+    "link-uuid": "13827bec-8bcf-4360-930a-80a532f77721",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816710
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minInclusiveFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/minInclusiveFacet",
+    "link-uuid": "38ebc614-9573-4aff-883f-6defe0da2910",
+    "title": "minInclusiveFacet",
+    "content": "Type XSDMinInclusiveFacet Multiplicity 0..1",
+    "timestamp": 1775682817269
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/primaryComponent/index.html": {
+    "path": "XSDDiagnostic/References/primaryComponent",
+    "link-uuid": "3b7a5e2c-b39c-43f4-ab43-dda19bce61c9",
+    "title": "primaryComponent",
+    "content": "Type XSDConcreteComponent Multiplicity 1",
+    "timestamp": 1775682814427
+  },
+  "references/eClassifiers/XSDRedefinableComponent/references/eStructuralFeatures/circular/index.html": {
+    "path": "XSDRedefinableComponent/Attributes/circular",
+    "link-uuid": "24998e1c-408b-4d8c-b37e-e78f6ebd7daf",
+    "title": "circular",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682816495
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/blockDefault/index.html": {
+    "path": "XSDSchema/Attributes/blockDefault",
+    "link-uuid": "18ad806c-112d-4ff3-912b-38403f68ae0b",
+    "title": "blockDefault",
+    "content": "Type XSDDisallowedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682816754
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/scope/index.html": {
+    "path": "XSDFeature/References/scope",
+    "link-uuid": "495f272e-1cda-4316-aea9-1c0ff4e2c11f",
+    "title": "scope",
+    "content": "Type XSDScope Multiplicity 0..1",
+    "timestamp": 1775682814824
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/line/index.html": {
+    "path": "XSDDiagnostic/Attributes/line",
+    "link-uuid": "15fc5ee4-fd13-46c5-8236-c287266d7c5f",
+    "title": "line",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682814407
+  },
+  "references/eClassifiers/XSDRepeatableFacet/index.html": {
+    "link-uuid": "2524ca1a-d460-4b98-92df-cd8e153ba6df",
+    "title": "XSDRepeatableFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682816634
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/message/index.html": {
+    "path": "XSDDiagnostic/Attributes/message",
+    "link-uuid": "39900d95-97c0-4e16-b699-5a5bd526e504",
+    "title": "message",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814417
+  },
+  "references/eClassifiers/XSDNamedComponent/references/eStructuralFeatures/aliasName/index.html": {
+    "path": "XSDNamedComponent/Attributes/aliasName",
+    "link-uuid": "13cfdca2-d655-4c23-b6fe-1c5da8817607",
+    "title": "aliasName",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816030
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/syntheticWildcard/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/syntheticWildcard",
+    "link-uuid": "cb652c53-30aa-4333-912f-02665f591eff",
+    "title": "syntheticWildcard",
+    "content": "Type XSDWildcard Multiplicity 0..1",
+    "timestamp": 1775682813655
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/finalDefault/index.html": {
+    "path": "XSDSchema/Attributes/finalDefault",
+    "link-uuid": "b0bf502d-0ad2-4e37-be5b-0f552293f890",
+    "title": "finalDefault",
+    "content": "Type XSDProhibitedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682816779
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/allDiagnostics/index.html": {
+    "path": "XSDSchema/References/allDiagnostics",
+    "link-uuid": "dc9a5733-caf6-47e1-8044-4d4a67e2a066",
+    "title": "allDiagnostics",
+    "content": "Type XSDDiagnostic Multiplicity 0..*",
+    "timestamp": 1775682816720
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/substitutionGroupExclusions/index.html": {
+    "path": "XSDElementDeclaration/Attributes/substitutionGroupExclusions",
+    "link-uuid": "542dacff-7f05-4166-805a-a2618ccd2ac1",
+    "title": "substitutionGroupExclusions",
+    "content": "Type XSDSubstitutionGroupExclusions Multiplicity 0..*",
+    "timestamp": 1775682814582
+  },
+  "references/eClassifiers/XSDModelGroup/inheritance.html": {
+    "path": "XSDModelGroup/Inheritance",
+    "link-uuid": "a0282772-2afc-48d9-9442-45f1c9900787",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815854
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMinLengthFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveMinLengthFacet",
+    "link-uuid": "e9fe1bd0-3746-4b1b-bdbe-8d8666e176da",
+    "title": "effectiveMinLengthFacet",
+    "content": "Type XSDMinLengthFacet Multiplicity 0..1",
+    "timestamp": 1775682817170
+  },
+  "references/eClassifiers/XSDSchemaCompositor/index.html": {
+    "link-uuid": "b666b71c-2897-4315-9f6d-8e7eca224f04",
+    "title": "XSDSchemaCompositor",
+    "content": "Diagram ",
+    "timestamp": 1775682816880
+  },
+  "references/eClassifiers/XSDAttributeGroupContent/inheritance.html": {
+    "path": "XSDAttributeGroupContent/Inheritance",
+    "link-uuid": "29d0ae18-0946-40e3-9b88-5bb9a68e1d6c",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682813539
+  },
+  "references/eClassifiers/XSDAnnotation/references/eStructuralFeatures/userInformation/index.html": {
+    "path": "XSDAnnotation/Attributes/userInformation",
+    "link-uuid": "60cc600c-9744-404c-88a2-7f2d48d7daee",
+    "title": "userInformation",
+    "content": "Type DOMElement Multiplicity 0..*",
+    "timestamp": 1775682813366
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/rootTypeDefinition/index.html": {
+    "path": "XSDComplexTypeDefinition/References/rootTypeDefinition",
+    "link-uuid": "9d70e8b0-85d4-4b3c-b4db-294de739677d",
+    "title": "rootTypeDefinition",
+    "content": "Type XSDTypeDefinition Multiplicity 1",
+    "timestamp": 1775682814115
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/components/index.html": {
+    "path": "XSDDiagnostic/References/components",
+    "link-uuid": "85630085-e936-4b0d-959a-b25f1021f3ad",
+    "title": "components",
+    "content": "Type XSDConcreteComponent Multiplicity 1..*",
+    "timestamp": 1775682814397
+  },
+  "references/eClassifiers/XSDAnnotation/index.html": {
+    "link-uuid": "ac914a87-161d-4413-837b-b2b87cdf533f",
+    "title": "XSDAnnotation",
+    "content": "Diagram ",
+    "timestamp": 1775682813325
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/resolvedAttributeGroupDefinition/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/resolvedAttributeGroupDefinition",
+    "link-uuid": "b3cd45e6-d706-4f50-a001-6ceef0d33655",
+    "title": "resolvedAttributeGroupDefinition",
+    "content": "Type XSDAttributeGroupDefinition Multiplicity 1",
+    "timestamp": 1775682813650
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/modelGroupDefinitions/index.html": {
+    "path": "XSDSchema/References/modelGroupDefinitions",
+    "link-uuid": "78243d36-1760-4d42-aacd-16a9fa07df99",
+    "title": "modelGroupDefinitions",
+    "content": "Type XSDModelGroupDefinition Multiplicity 0..*",
+    "timestamp": 1775682816794
+  },
+  "references/eClassifiers/XSDNamedComponent/references/eStructuralFeatures/uRI/index.html": {
+    "path": "XSDNamedComponent/Attributes/uRI",
+    "link-uuid": "eec5f6b1-44c0-43cb-a098-b5981e7ab149",
+    "title": "uRI",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816062
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveFractionDigitsFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveFractionDigitsFacet",
+    "link-uuid": "5f7ef246-92ee-46e2-9ef8-47a5c385f1cb",
+    "title": "effectiveFractionDigitsFacet",
+    "content": "Type XSDFractionDigitsFacet Multiplicity 0..1",
+    "timestamp": 1775682817146
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/lexicalFinal/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/lexicalFinal",
+    "link-uuid": "8d84a705-e3e1-493b-a201-ea8e2358e182",
+    "title": "lexicalFinal",
+    "content": "Type XSDComplexFinal Multiplicity 0..*",
+    "timestamp": 1775682814098
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/type/index.html": {
+    "path": "XSDFeature/References/type",
+    "link-uuid": "0ec10415-a732-4988-8e18-e6cd55d9aadd",
+    "title": "type",
+    "content": "Type XSDTypeDefinition Multiplicity 1",
+    "timestamp": 1775682814829
+  },
+  "references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/modelGroup/index.html": {
+    "path": "XSDModelGroupDefinition/References/modelGroup",
+    "link-uuid": "b61d2fa3-2f83-4961-bd93-3aa0d13684fb",
+    "title": "modelGroup",
+    "content": "Type XSDModelGroup Multiplicity 1",
+    "timestamp": 1775682815969
+  },
+  "references/eClassifiers/XSDSchemaContent/inheritance.html": {
+    "path": "XSDSchemaContent/Inheritance",
+    "link-uuid": "58dbbff4-90d2-4b34-9435-19418407e9e4",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816941
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/baseTypeDefinition/index.html": {
+    "path": "XSDComplexTypeDefinition/References/baseTypeDefinition",
+    "link-uuid": "f3cc5980-1ba7-405f-a07e-a7887cfc8246",
+    "title": "baseTypeDefinition",
+    "content": "Type XSDTypeDefinition Multiplicity 1",
+    "timestamp": 1775682814057
+  },
+  "references/eClassifiers/XSDInclude/index.html": {
+    "link-uuid": "63161bd8-6ce2-47f7-b5b3-47dafe27c335",
+    "title": "XSDInclude",
+    "content": "Diagram ",
+    "timestamp": 1775682815178
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxLengthFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/maxLengthFacet",
+    "link-uuid": "7fe7b038-5d5d-4829-9788-6b8e609f39d0",
+    "title": "maxLengthFacet",
+    "content": "Type XSDMaxLengthFacet Multiplicity 0..1",
+    "timestamp": 1775682817250
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/elementDeclarationReference/index.html": {
+    "path": "XSDElementDeclaration/Attributes/elementDeclarationReference",
+    "link-uuid": "768ea864-4629-40f1-8636-de9ddffa4f07",
+    "title": "elementDeclarationReference",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814546
+  },
+  "references/eClassifiers/XSDPatternFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDPatternFacet/Attributes/value",
+    "link-uuid": "dff0c676-b919-4fcf-8346-97ae0ad1399b",
+    "title": "value",
+    "content": "Type EString Multiplicity 0..*",
+    "timestamp": 1775682816434
+  },
+  "references/eClassifiers/XSDAttributeUse/inheritance.html": {
+    "path": "XSDAttributeUse/Inheritance",
+    "link-uuid": "3953b2ee-f8a0-4134-81d6-c83cc2564866",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682813713
+  },
+  "references/eClassifiers/XSDSchemaDirective/inheritance.html": {
+    "path": "XSDSchemaDirective/Inheritance",
+    "link-uuid": "cf644b4d-3733-456d-9dda-1e645d55d341",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816987
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/use/index.html": {
+    "path": "XSDAttributeUse/Attributes/use",
+    "link-uuid": "ca85a199-cea3-4c27-bdd7-af6756c16a23",
+    "title": "use",
+    "content": "Type XSDAttributeUseCategory Multiplicity 0..1",
+    "timestamp": 1775682813756
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/numericFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/numericFacet",
+    "link-uuid": "4198a819-42f7-4414-a1d6-17a6abcbce34",
+    "title": "numericFacet",
+    "content": "Type XSDNumericFacet Multiplicity 1",
+    "timestamp": 1775682817279
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeUses/index.html": {
+    "path": "XSDComplexTypeDefinition/References/attributeUses",
+    "link-uuid": "57cf3815-5a9c-4a4d-a5cd-724e09749607",
+    "title": "attributeUses",
+    "content": "Type XSDAttributeUse Multiplicity 0..*",
+    "timestamp": 1775682814040
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMinFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveMinFacet",
+    "link-uuid": "a4cff982-c9d0-4eae-a831-b1424b5f7a01",
+    "title": "effectiveMinFacet",
+    "content": "Type XSDMinFacet Multiplicity 0..1",
+    "timestamp": 1775682817166
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/itemTypeDefinition/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/itemTypeDefinition",
+    "link-uuid": "a01403d7-a40d-4581-a802-27ef14f8a865",
+    "title": "itemTypeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..1",
+    "timestamp": 1775682817220
+  },
+  "references/eClassifiers/XSDFractionDigitsFacet/index.html": {
+    "link-uuid": "c1b14c9e-ab23-4448-b5da-a980faed3cea",
+    "title": "XSDFractionDigitsFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682814932
+  },
+  "references/eClassifiers/XSDWildcard/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDWildcard/References/annotation",
+    "link-uuid": "d03642f7-e848-42c3-b533-0b9187ad7460",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682817716
+  },
+  "references/eClassifiers/XSDNumericFacet/inheritance.html": {
+    "path": "XSDNumericFacet/Inheritance",
+    "link-uuid": "ffbf6041-c3db-4d9f-93c4-2c913af3b911",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682816185
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/lengthFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/lengthFacet",
+    "link-uuid": "c58e2754-a9f0-448d-a1cf-f7e9a0a0502c",
+    "title": "lengthFacet",
+    "content": "Type XSDLengthFacet Multiplicity 0..1",
+    "timestamp": 1775682817225
+  },
+  "references/eClassifiers/XSDMinLengthFacet/index.html": {
+    "link-uuid": "dd78d5c6-d88d-4cab-933b-54f2d3c8eeed",
+    "title": "XSDMinLengthFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815782
+  },
+  "references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/content/index.html": {
+    "path": "XSDAttributeUse/References/content",
+    "link-uuid": "c40c493f-ebb7-4661-936f-cd210a5d6bc0",
+    "title": "content",
+    "content": "Type XSDAttributeDeclaration Multiplicity 1",
+    "timestamp": 1775682813738
+  },
+  "references/eClassifiers/XSDAnnotation/references/eStructuralFeatures/applicationInformation/index.html": {
+    "path": "XSDAnnotation/Attributes/applicationInformation",
+    "link-uuid": "efd2cd19-74d5-4b7d-a989-5c9a78f3d134",
+    "title": "applicationInformation",
+    "content": "Type DOMElement Multiplicity 0..*",
+    "timestamp": 1775682813348
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeContents/index.html": {
+    "path": "XSDComplexTypeDefinition/References/attributeContents",
+    "link-uuid": "978d7f97-364e-4397-acc3-400680d0a5c5",
+    "title": "attributeContents",
+    "content": "Type XSDAttributeGroupContent Multiplicity 0..*",
+    "timestamp": 1775682814035
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/syntheticParticle/index.html": {
+    "path": "XSDComplexTypeDefinition/References/syntheticParticle",
+    "link-uuid": "2139548e-1177-47d4-81d9-867685d015e4",
+    "title": "syntheticParticle",
+    "content": "Type XSDParticle Multiplicity 0..1",
+    "timestamp": 1775682814121
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/fractionDigitsFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/fractionDigitsFacet",
+    "link-uuid": "0dd791f8-f7e1-409e-ac2e-6e99c9c0a459",
+    "title": "fractionDigitsFacet",
+    "content": "Type XSDFractionDigitsFacet Multiplicity 0..1",
+    "timestamp": 1775682817210
+  },
+  "references/eClassifiers/XSDFeature/inheritance.html": {
+    "path": "XSDFeature/Inheritance",
+    "link-uuid": "d5b7ae5b-0150-481a-a64b-7811411921f3",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682814785
+  },
+  "references/eClassifiers/XSDParticleContent/inheritance.html": {
+    "path": "XSDParticleContent/Inheritance",
+    "link-uuid": "50908e0a-014a-4198-ad66-61e70f0216d6",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816375
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/orderedFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/orderedFacet",
+    "link-uuid": "5a110566-a9fd-4661-9727-27bec3987fbb",
+    "title": "orderedFacet",
+    "content": "Type XSDOrderedFacet Multiplicity 1",
+    "timestamp": 1775682817284
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/anonymousTypeDefinition/index.html": {
+    "path": "XSDElementDeclaration/References/anonymousTypeDefinition",
+    "link-uuid": "ce56414d-e971-4977-a9d2-66891ee40843",
+    "title": "anonymousTypeDefinition",
+    "content": "Type XSDTypeDefinition Multiplicity 0..1",
+    "timestamp": 1775682814525
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/primitiveTypeDefinition/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/primitiveTypeDefinition",
+    "link-uuid": "4b72c933-262a-4245-a8cb-b3b2c525846b",
+    "title": "primitiveTypeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..1",
+    "timestamp": 1775682817294
+  },
+  "references/eClassifiers/XSDFixedFacet/index.html": {
+    "link-uuid": "21b89860-a38f-464f-8bfb-7ce745b82c87",
+    "title": "XSDFixedFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682814874
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/referencingDirectives/index.html": {
+    "path": "XSDSchema/References/referencingDirectives",
+    "link-uuid": "9b9be8e9-0d20-409c-9d62-61b62b779a38",
+    "title": "referencingDirectives",
+    "content": "Type XSDSchemaDirective Multiplicity 0..*",
+    "timestamp": 1775682816808
+  },
+  "references/eClassifiers/XSDDiagnostic/inheritance.html": {
+    "path": "XSDDiagnostic/Inheritance",
+    "link-uuid": "40d715d5-ea56-4310-9056-a447cba57af2",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682814376
+  },
+  "references/eClassifiers/XSDXPathDefinition/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDXPathDefinition/Attributes/value",
+    "link-uuid": "7260a994-eb26-46ff-8216-754871e5a692",
+    "title": "value",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682817800
+  },
+  "references/eClassifiers/XSDModelGroupDefinition/index.html": {
+    "link-uuid": "c04bd09c-58b3-43b4-9304-ab0958a9ae2f",
+    "title": "XSDModelGroupDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682815944
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/whiteSpaceFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/whiteSpaceFacet",
+    "link-uuid": "6bcad4a3-fb52-4144-bfd0-f02ad5048412",
+    "title": "whiteSpaceFacet",
+    "content": "Type XSDWhiteSpaceFacet Multiplicity 0..1",
+    "timestamp": 1775682817324
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/typeDefinition/index.html": {
+    "path": "XSDElementDeclaration/References/typeDefinition",
+    "link-uuid": "642e7c38-37e5-4355-bfb8-bd9180ce7530",
+    "title": "typeDefinition",
+    "content": "Type XSDTypeDefinition Multiplicity 1",
+    "timestamp": 1775682814587
+  },
+  "references/eClassifiers/XSDNotationDeclaration/references/eStructuralFeatures/systemIdentifier/index.html": {
+    "path": "XSDNotationDeclaration/Attributes/systemIdentifier",
+    "link-uuid": "97c28868-2394-400b-9ebf-f038be3d90a2",
+    "title": "systemIdentifier",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816138
+  },
+  "references/eClassifiers/XSDElementDeclaration/index.html": {
+    "link-uuid": "1633d589-4725-4dcb-892d-beb47f71f2fb",
+    "title": "XSDElementDeclaration",
+    "content": "Diagram ",
+    "timestamp": 1775682814498
+  },
+  "references/eClassifiers/XSDWildcard/references/eStructuralFeatures/lexicalNamespaceConstraint/index.html": {
+    "path": "XSDWildcard/Attributes/lexicalNamespaceConstraint",
+    "link-uuid": "5d82f7f9-58c2-4abd-87dd-c514eb3197ae",
+    "title": "lexicalNamespaceConstraint",
+    "content": "Type EString Multiplicity 0..*",
+    "timestamp": 1775682817726
+  },
+  "references/eClassifiers/XSDMaxExclusiveFacet/inheritance.html": {
+    "path": "XSDMaxExclusiveFacet/Inheritance",
+    "link-uuid": "801c5810-a65b-4fe9-b69d-7d3d09194db1",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815301
+  },
+  "references/eClassifiers/XSDWhiteSpaceFacet/index.html": {
+    "link-uuid": "b7958af2-9d87-4db3-be6e-4bdc7ae3d302",
+    "title": "XSDWhiteSpaceFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682817643
+  },
+  "references/eClassifiers/XSDCardinalityFacet/index.html": {
+    "link-uuid": "6d071ccb-fecf-405d-a002-a32a0e9e542a",
+    "title": "XSDCardinalityFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682813884
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/rootTypeDefinition/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/rootTypeDefinition",
+    "link-uuid": "02676a51-6c08-49fb-b954-6305decee6a0",
+    "title": "rootTypeDefinition",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 1",
+    "timestamp": 1775682817298
+  },
+  "references/eClassifiers/XSDConcreteComponent/index.html": {
+    "link-uuid": "73771c8d-4c53-4012-936a-a6cce456c311",
+    "title": "XSDConcreteComponent",
+    "content": "Diagram ",
+    "timestamp": 1775682814228
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/index.html": {
+    "link-uuid": "22b81c00-f8ca-477c-9748-f392159de9ec",
+    "title": "XSDIdentityConstraintDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682815052
+  },
+  "references/eClassifiers/XSDAnnotation/inheritance.html": {
+    "path": "XSDAnnotation/Inheritance",
+    "link-uuid": "bb2bbc6a-2f0a-41c3-b954-f90d28434e71",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682813333
+  },
+  "references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/diagnostics/index.html": {
+    "path": "XSDConcreteComponent/References/diagnostics",
+    "link-uuid": "b1539998-d6fd-4fa7-8bf2-bf9cddd1b989",
+    "title": "diagnostics",
+    "content": "Type XSDDiagnostic Multiplicity 0..*",
+    "timestamp": 1775682814244
+  },
+  "references/eClassifiers/XSDConstrainingFacet/index.html": {
+    "link-uuid": "a41a4b08-b578-4339-9fc8-1a82bb40764b",
+    "title": "XSDConstrainingFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682814305
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveEnumerationFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectiveEnumerationFacet",
+    "link-uuid": "1a295df1-2ed3-4033-b72a-2b6f4729c67e",
+    "title": "effectiveEnumerationFacet",
+    "content": "Type XSDEnumerationFacet Multiplicity 0..1",
+    "timestamp": 1775682817141
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/contentAnnotation/index.html": {
+    "path": "XSDComplexTypeDefinition/References/contentAnnotation",
+    "link-uuid": "29459861-c32d-4ede-abea-e6998661ab73",
+    "title": "contentAnnotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682814073
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDElementDeclaration/References/annotation",
+    "link-uuid": "a3ae6004-5f83-4dc7-a95a-0dd29fa94afb",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682814520
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/contents/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/contents",
+    "link-uuid": "edf2abb1-fcce-4e64-ab90-7df043d4a30c",
+    "title": "contents",
+    "content": "Type XSDSimpleTypeDefinition Multiplicity 0..*",
+    "timestamp": 1775682817136
+  },
+  "references/eClassifiers/XSDComplexTypeContent/index.html": {
+    "link-uuid": "406eb487-afd3-4554-b9bb-eabe0da9c114",
+    "title": "XSDComplexTypeContent",
+    "content": "Diagram ",
+    "timestamp": 1775682813959
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/abstract/index.html": {
+    "path": "XSDElementDeclaration/Attributes/abstract",
+    "link-uuid": "67cb51cb-1838-47e6-9837-97d59dbfa037",
+    "title": "abstract",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814515
+  },
+  "references/eClassifiers/XSDWildcard/references/eStructuralFeatures/processContents/index.html": {
+    "path": "XSDWildcard/Attributes/processContents",
+    "link-uuid": "03ae607b-d158-480f-bca5-fc76d8965c68",
+    "title": "processContents",
+    "content": "Type XSDProcessContents Multiplicity 0..1",
+    "timestamp": 1775682817742
+  },
+  "references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/container/index.html": {
+    "path": "XSDConcreteComponent/References/container",
+    "link-uuid": "b6f9c1ab-4032-40b2-b62a-c9b0b36f8996",
+    "title": "container",
+    "content": "Type XSDConcreteComponent Multiplicity 0..1",
+    "timestamp": 1775682814239
+  },
+  "references/eClassifiers/XSDConstrainingFacet/inheritance.html": {
+    "path": "XSDConstrainingFacet/Inheritance",
+    "link-uuid": "bf16f018-d1be-4386-b14e-74550be839a7",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682814311
+  },
+  "references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/modelGroupDefinitionReference/index.html": {
+    "path": "XSDModelGroupDefinition/Attributes/modelGroupDefinitionReference",
+    "link-uuid": "2e06ae0c-7171-4f29-b1ef-c54d860aa319",
+    "title": "modelGroupDefinitionReference",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682815974
+  },
+  "references/eClassifiers/XSDFacet/index.html": {
+    "link-uuid": "c7529641-4120-450b-aa5e-9c2ba8e45e40",
+    "title": "XSDFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682814703
+  },
+  "references/eClassifiers/XSDFundamentalFacet/inheritance.html": {
+    "path": "XSDFundamentalFacet/Inheritance",
+    "link-uuid": "f3634aed-b61f-4e6f-b173-ec2110c3e1ed",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682815000
+  },
+  "references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDModelGroupDefinition/References/annotation",
+    "link-uuid": "8f345c67-3393-49f8-9c50-27be7f051f23",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682815963
+  },
+  "references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/particles/index.html": {
+    "path": "XSDModelGroup/References/particles",
+    "link-uuid": "198f7b66-e692-40c8-b5b1-55589b50ed1f",
+    "title": "particles",
+    "content": "Type XSDParticle Multiplicity 1..*",
+    "timestamp": 1775682815890
+  },
+  "references/eClassifiers/XSDModelGroupDefinition/inheritance.html": {
+    "path": "XSDModelGroupDefinition/Inheritance",
+    "link-uuid": "22748a03-391f-43f7-8d1c-87bcfc4ee44a",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815950
+  },
+  "references/eClassifiers/XSDNumericFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDNumericFacet/Attributes/value",
+    "link-uuid": "33eb6c04-3d87-480e-adb4-cc1ce418bd3d",
+    "title": "value",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682816196
+  },
+  "references/eClassifiers/XSDRedefineContent/inheritance.html": {
+    "path": "XSDRedefineContent/Inheritance",
+    "link-uuid": "4ab14040-f503-4ec7-9030-08720156b6b6",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816598
+  },
+  "references/eClassifiers/XSDTerm/inheritance.html": {
+    "path": "XSDTerm/Inheritance",
+    "link-uuid": "8b0d5031-0187-41ca-8f16-436466906ba0",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682817400
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/syntheticWildcard/index.html": {
+    "path": "XSDComplexTypeDefinition/References/syntheticWildcard",
+    "link-uuid": "70610f4e-91ca-43ec-98d3-48072df17c26",
+    "title": "syntheticWildcard",
+    "content": "Type XSDWildcard Multiplicity 0..1",
+    "timestamp": 1775682814126
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/disallowedSubstitutions/index.html": {
+    "path": "XSDElementDeclaration/Attributes/disallowedSubstitutions",
+    "link-uuid": "659ebd39-fa9e-4ed9-ac20-f1eabf7f3791",
+    "title": "disallowedSubstitutions",
+    "content": "Type XSDDisallowedSubstitutions Multiplicity 0..*",
+    "timestamp": 1775682814541
+  },
+  "references/eClassifiers/XSDTotalDigitsFacet/index.html": {
+    "link-uuid": "ce262e50-4859-41df-aa24-ec794ba31a86",
+    "title": "XSDTotalDigitsFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682817462
+  },
+  "references/eClassifiers/XSDParticle/references/eStructuralFeatures/content/index.html": {
+    "path": "XSDParticle/References/content",
+    "link-uuid": "0331bedf-f5ac-49f0-b1f0-80f4d615e90d",
+    "title": "content",
+    "content": "Type XSDParticleContent Multiplicity 1",
+    "timestamp": 1775682816318
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/final/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/final",
+    "link-uuid": "a5ea4d9f-f6e9-420f-bfb0-131f009cfbda",
+    "title": "final",
+    "content": "Type XSDComplexFinal Multiplicity 0..*",
+    "timestamp": 1775682814094
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/typeDefinitions/index.html": {
+    "path": "XSDSchema/References/typeDefinitions",
+    "link-uuid": "1779f3a5-954d-495d-a980-1cdd568ba62f",
+    "title": "typeDefinitions",
+    "content": "Type XSDTypeDefinition Multiplicity 0..*",
+    "timestamp": 1775682816833
+  },
+  "references/eClassifiers/XSDMinLengthFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDMinLengthFacet/Attributes/value",
+    "link-uuid": "0157f8b6-00d9-4305-b44f-0dab8be4256f",
+    "title": "value",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682815800
+  },
+  "references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/abstract/index.html": {
+    "path": "XSDComplexTypeDefinition/Attributes/abstract",
+    "link-uuid": "151dd7ea-7e58-4f2f-bfce-c88cc169a35c",
+    "title": "abstract",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814030
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/contents/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/contents",
+    "link-uuid": "87f4f5b4-e2bb-41ab-b9ee-7899d58d7940",
+    "title": "contents",
+    "content": "Type XSDAttributeGroupContent Multiplicity 0..*",
+    "timestamp": 1775682813644
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minExclusiveFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/minExclusiveFacet",
+    "link-uuid": "730cbb08-76a3-4061-a2a4-747ce3274ec3",
+    "title": "minExclusiveFacet",
+    "content": "Type XSDMinExclusiveFacet Multiplicity 0..1",
+    "timestamp": 1775682817260
+  },
+  "references/eClassifiers/XSDMinLengthFacet/inheritance.html": {
+    "path": "XSDMinLengthFacet/Inheritance",
+    "link-uuid": "fa223692-9ae0-44a0-a97f-d76549c8a127",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815788
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/validFacets/index.html": {
+    "path": "XSDSimpleTypeDefinition/Attributes/validFacets",
+    "link-uuid": "a71c1eb5-c105-48a8-b8bd-25d105b4ddfe",
+    "title": "validFacets",
+    "content": "Type EString Multiplicity 0..*",
+    "timestamp": 1775682817313
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDIdentityConstraintDefinition/References/annotation",
+    "link-uuid": "5a313f5a-9403-4187-8b59-681947931748",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682815067
+  },
+  "references/eClassifiers/XSDMaxInclusiveFacet/index.html": {
+    "link-uuid": "7c5a141b-f175-4618-9a9a-9e2d52cb71a7",
+    "title": "XSDMaxInclusiveFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815432
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/global/index.html": {
+    "path": "XSDFeature/Attributes/global",
+    "link-uuid": "86cc49e7-f2de-436b-bfbc-0d75786af9a1",
+    "title": "global",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682814808
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/index.html": {
+    "link-uuid": "17bab232-3394-4f31-9247-e18945487a84",
+    "title": "XSDSimpleTypeDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682817106
+  },
+  "references/eClassifiers/XSDNamedComponent/references/eStructuralFeatures/qName/index.html": {
+    "path": "XSDNamedComponent/Attributes/qName",
+    "link-uuid": "bcdfff3d-2a4d-4944-bb68-45aa23abf54f",
+    "title": "qName",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682816052
+  },
+  "references/eClassifiers/XSDTypeDefinition/index.html": {
+    "link-uuid": "5c2a6ef2-781b-49c9-a206-4049adf331af",
+    "title": "XSDTypeDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682817552
+  },
+  "references/eClassifiers/XSDFacet/references/eStructuralFeatures/facetName/index.html": {
+    "path": "XSDFacet/Attributes/facetName",
+    "link-uuid": "0a7a4b5e-0c6a-4918-a1bb-1a1c63bdb856",
+    "title": "facetName",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814725
+  },
+  "references/eClassifiers/XSDEnumerationFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDEnumerationFacet/Attributes/value",
+    "link-uuid": "b52182b5-c298-4308-8ce1-160a14e27582",
+    "title": "value",
+    "content": "Type Value Multiplicity 0..*",
+    "timestamp": 1775682814655
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/attributeFormDefault/index.html": {
+    "path": "XSDSchema/Attributes/attributeFormDefault",
+    "link-uuid": "1f3f893e-2ca6-4564-a9e4-3a59835a0c89",
+    "title": "attributeFormDefault",
+    "content": "Type XSDForm Multiplicity 0..1",
+    "timestamp": 1775682816744
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/final/index.html": {
+    "path": "XSDSimpleTypeDefinition/Attributes/final",
+    "link-uuid": "d5f306a3-415c-48a6-b0d6-e02ff8a817ca",
+    "title": "final",
+    "content": "Type XSDSimpleFinal Multiplicity 0..*",
+    "timestamp": 1775682817205
+  },
+  "references/eClassifiers/XSDBoundedFacet/inheritance.html": {
+    "path": "XSDBoundedFacet/Inheritance",
+    "link-uuid": "47ea6d3f-9a8a-445c-9218-40a375a035df",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682813824
+  },
+  "references/eClassifiers/XSDRedefine/index.html": {
+    "link-uuid": "b1c2f27a-a610-4c6a-b632-bf3702765e14",
+    "title": "XSDRedefine",
+    "content": "Diagram ",
+    "timestamp": 1775682816531
+  },
+  "references/eClassifiers/XSDAttributeGroupContent/index.html": {
+    "link-uuid": "539ad006-71ff-4787-b4bc-7fb5d6e8c85b",
+    "title": "XSDAttributeGroupContent",
+    "content": "Diagram ",
+    "timestamp": 1775682813533
+  },
+  "references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/fields/index.html": {
+    "path": "XSDIdentityConstraintDefinition/References/fields",
+    "link-uuid": "77ae82c1-66a3-4517-84f6-797804b0d4e3",
+    "title": "fields",
+    "content": "Type XSDXPathDefinition Multiplicity 1..*",
+    "timestamp": 1775682815072
+  },
+  "references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/compositor/index.html": {
+    "path": "XSDModelGroup/Attributes/compositor",
+    "link-uuid": "79e8e3d5-5d0c-49f4-b6c9-ecd498e5b079",
+    "title": "compositor",
+    "content": "Type XSDCompositor Multiplicity 0..1",
+    "timestamp": 1775682815877
+  },
+  "references/eClassifiers/XSDMaxExclusiveFacet/index.html": {
+    "link-uuid": "0cf41921-3b4c-4ad3-9ae3-df9cbfc29204",
+    "title": "XSDMaxExclusiveFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815296
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minLengthFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/minLengthFacet",
+    "link-uuid": "3dcf4167-8bcb-4a60-9731-941a94c3781e",
+    "title": "minLengthFacet",
+    "content": "Type XSDMinLengthFacet Multiplicity 0..1",
+    "timestamp": 1775682817274
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/maxFacet",
+    "link-uuid": "77476876-07fd-41ab-9de2-20ab34605aee",
+    "title": "maxFacet",
+    "content": "Type XSDMaxFacet Multiplicity 0..1",
+    "timestamp": 1775682817239
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/lexicalValue/index.html": {
+    "path": "XSDFeature/Attributes/lexicalValue",
+    "link-uuid": "e3216f10-9d30-4de3-9bd3-b42ed710ebe7",
+    "title": "lexicalValue",
+    "content": "Type EString Multiplicity 0..1",
+    "timestamp": 1775682814813
+  },
+  "references/eClassifiers/XSDFeature/references/eStructuralFeatures/resolvedFeature/index.html": {
+    "path": "XSDFeature/References/resolvedFeature",
+    "link-uuid": "9dddaccd-98e5-4171-a1b4-8594ffb1e785",
+    "title": "resolvedFeature",
+    "content": "Type XSDFeature Multiplicity 1",
+    "timestamp": 1775682814819
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectivePatternFacet/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/effectivePatternFacet",
+    "link-uuid": "1535e3d9-d536-42ba-99a5-954c5a4bef53",
+    "title": "effectivePatternFacet",
+    "content": "Type XSDPatternFacet Multiplicity 0..1",
+    "timestamp": 1775682817175
+  },
+  "references/eClassifiers/XSDMinFacet/inheritance.html": {
+    "path": "XSDMinFacet/Inheritance",
+    "link-uuid": "f5951bed-84e4-4a07-94c5-1b8179afca81",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682815640
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/index.html": {
+    "link-uuid": "19291d93-4ef6-4994-ade1-b04604c7fecd",
+    "title": "XSDAttributeGroupDefinition",
+    "content": "Diagram ",
+    "timestamp": 1775682813592
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/complexType/index.html": {
+    "path": "XSDTypeDefinition/References/complexType",
+    "link-uuid": "69e6127d-2e8f-4593-8c7e-1cbeb1ce7a36",
+    "title": "complexType",
+    "content": "Type XSDParticle Multiplicity 0..1",
+    "timestamp": 1775682817578
+  },
+  "references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/rootType/index.html": {
+    "path": "XSDTypeDefinition/References/rootType",
+    "link-uuid": "0c3362d4-8a23-4149-a647-250e1f1e1981",
+    "title": "rootType",
+    "content": "Type XSDTypeDefinition Multiplicity 1",
+    "timestamp": 1775682817587
+  },
+  "references/eClassifiers/XSDMaxFacet/index.html": {
+    "link-uuid": "f56c9a17-8029-4f7b-88be-e6026cdf0fd4",
+    "title": "XSDMaxFacet",
+    "content": "Diagram ",
+    "timestamp": 1775682815357
+  },
+  "references/eClassifiers/XSDMaxLengthFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDMaxLengthFacet/Attributes/value",
+    "link-uuid": "d1497fea-fc48-4183-a49c-1b572a269307",
+    "title": "value",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682815511
+  },
+  "references/eClassifiers/XSDRepeatableFacet/inheritance.html": {
+    "path": "XSDRepeatableFacet/Inheritance",
+    "link-uuid": "eab4e0be-2d54-4a3a-8e8c-8b67d3861572",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816639
+  },
+  "references/eClassifiers/XSDComponent/index.html": {
+    "link-uuid": "4e0c7b7e-abe6-4ac2-b1a8-58abaff4cf9c",
+    "title": "XSDComponent",
+    "content": "Diagram ",
+    "timestamp": 1775682814170
+  },
+  "references/eClassifiers/XSDSchemaCompositor/references/eStructuralFeatures/incorporatedSchema/index.html": {
+    "path": "XSDSchemaCompositor/References/incorporatedSchema",
+    "link-uuid": "fa517b0a-cc2d-42df-9d3a-f5d134737c92",
+    "title": "incorporatedSchema",
+    "content": "Type XSDSchema Multiplicity 0..1",
+    "timestamp": 1775682816890
+  },
+  "references/eClassifiers/XSDMaxLengthFacet/inheritance.html": {
+    "path": "XSDMaxLengthFacet/Inheritance",
+    "link-uuid": "00dc065c-761d-4731-ac40-969d9ca0bfaf",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682815500
+  },
+  "references/eClassifiers/XSDAttributeDeclaration/inheritance.html": {
+    "path": "XSDAttributeDeclaration/Inheritance",
+    "link-uuid": "4d828b1b-6d3c-45cf-9bed-4b766a82df73",
+    "title": "Inheritance",
+    "content": "Supertypes ",
+    "timestamp": 1775682813445
+  },
+  "references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/column/index.html": {
+    "path": "XSDDiagnostic/Attributes/column",
+    "link-uuid": "58041100-e6ae-41d2-86c4-a2a879ff22eb",
+    "title": "column",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682814392
+  },
+  "references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/substitutionGroup/index.html": {
+    "path": "XSDElementDeclaration/References/substitutionGroup",
+    "link-uuid": "f0c93f26-ac6f-44d7-91c6-557d044d1106",
+    "title": "substitutionGroup",
+    "content": "Type XSDElementDeclaration Multiplicity 0..*",
+    "timestamp": 1775682814572
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/facets/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/facets",
+    "link-uuid": "5f0f5144-16cf-4430-bd1e-50839c192fd4",
+    "title": "facets",
+    "content": "Type XSDConstrainingFacet Multiplicity 0..*",
+    "timestamp": 1775682817200
+  },
+  "references/eClassifiers/XSDTotalDigitsFacet/references/eStructuralFeatures/value/index.html": {
+    "path": "XSDTotalDigitsFacet/Attributes/value",
+    "link-uuid": "494a28ef-4772-44b3-9ae0-272eceb2c4bb",
+    "title": "value",
+    "content": "Type EInt Multiplicity 0..1",
+    "timestamp": 1775682817480
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/document/index.html": {
+    "path": "XSDSchema/Attributes/document",
+    "link-uuid": "fc97f6c0-e9f8-4d35-8ed7-45b60e71b13a",
+    "title": "document",
+    "content": "Type DOMDocument Multiplicity 0..1",
+    "timestamp": 1775682816765
+  },
+  "references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/enumerationFacets/index.html": {
+    "path": "XSDSimpleTypeDefinition/References/enumerationFacets",
+    "link-uuid": "baac1de7-d98f-4d2d-91d9-8e5a2412ecd0",
+    "title": "enumerationFacets",
+    "content": "Type XSDEnumerationFacet Multiplicity 0..*",
+    "timestamp": 1775682817191
+  },
+  "references/eClassifiers/XSDSchemaDirective/index.html": {
+    "link-uuid": "2c2c1329-5691-4c83-be7e-5c0f403d3641",
+    "title": "XSDSchemaDirective",
+    "content": "Diagram ",
+    "timestamp": 1775682816982
+  },
+  "references/eClassifiers/XSDNamedComponent/inheritance.html": {
+    "path": "XSDNamedComponent/Inheritance",
+    "link-uuid": "570a347b-8c56-47c2-b4ed-404dfd990413",
+    "title": "Inheritance",
+    "content": "Supertypes Subtypes  ",
+    "timestamp": 1775682816025
+  },
+  "references/eClassifiers/XSDSchema/references/eStructuralFeatures/contents/index.html": {
+    "path": "XSDSchema/References/contents",
+    "link-uuid": "7d1e62d2-4562-49f2-9c3b-f4d488126dc4",
+    "title": "contents",
+    "content": "Type XSDSchemaContent Multiplicity 0..*",
+    "timestamp": 1775682816760
+  },
+  "references/eClassifiers/XSDXPathDefinition/references/eStructuralFeatures/variety/index.html": {
+    "path": "XSDXPathDefinition/Attributes/variety",
+    "link-uuid": "c62fca0f-d92a-4a1e-bbb6-2d7dff69a7e3",
+    "title": "variety",
+    "content": "Type XSDXPathVariety Multiplicity 0..1",
+    "timestamp": 1775682817805
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeGroupDefinitionReference/index.html": {
+    "path": "XSDAttributeGroupDefinition/Attributes/attributeGroupDefinitionReference",
+    "link-uuid": "4ea87e5a-2582-4a48-98bf-a2c3dbbb08bd",
+    "title": "attributeGroupDefinitionReference",
+    "content": "Type EBoolean Multiplicity 0..1",
+    "timestamp": 1775682813618
+  },
+  "references/eClassifiers/XSDFacet/references/eStructuralFeatures/effectiveValue/index.html": {
+    "path": "XSDFacet/Attributes/effectiveValue",
+    "link-uuid": "222fc1a7-8ca0-4835-9e90-da037e05b752",
+    "title": "effectiveValue",
+    "content": "Type Value Multiplicity 0..1",
+    "timestamp": 1775682814719
+  },
+  "references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/annotation/index.html": {
+    "path": "XSDAttributeGroupDefinition/References/annotation",
+    "link-uuid": "1b7a223b-e48d-4d2d-8cc5-48bc4e6f9f1d",
+    "title": "annotation",
+    "content": "Type XSDAnnotation Multiplicity 0..1",
+    "timestamp": 1775682813612
+  },
+  "references/eClassifiers/XSDRedefinableComponent/index.html": {
+    "link-uuid": "40c246e3-404e-4f1b-b629-91960d58c0b5",
+    "title": "XSDRedefinableComponent",
+    "content": "Diagram ",
+    "timestamp": 1775682816484
+  }
+}

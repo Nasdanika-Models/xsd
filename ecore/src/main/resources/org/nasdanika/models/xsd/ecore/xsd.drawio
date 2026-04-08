@@ -1,0 +1,1343 @@
+<mxfile compressed="false" host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram id="a242a389-4e5c-430e-8085-3b74bdc7671c" name="XSD">
+    <mxGraphModel dx="5036" dy="3110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="XSDDiagnostic" link="references/eClassifiers/XSDDiagnostic/index.html" id="50409bfa-49cb-4d1c-afd4-857d17cc6124">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1189.1815516524462" y="1038.5698686979201" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDMinFacet" link="references/eClassifiers/XSDMinFacet/index.html" id="6d869fea-daa7-4611-8444-2e1d4ffa5ce5">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="793.5013138294385" y="381.6772854926815" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDPatternFacet" link="references/eClassifiers/XSDPatternFacet/index.html" id="130985cd-d01c-4c8b-870d-f996df2058ce">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1092.8372897997972" y="384.29064878609597" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDElementDeclaration" link="references/eClassifiers/XSDElementDeclaration/index.html" id="6dadeb8e-54fa-4c14-8f22-fbef42988de5">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1296.0696796353036" y="873.3289149963706" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resolvedElementDeclaration" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/resolvedElementDeclaration/index.html" id="30490708-8a52-4aa4-838f-6384b2b67289">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="6dadeb8e-54fa-4c14-8f22-fbef42988de5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="substitutionGroupAffiliation" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/substitutionGroupAffiliation/index.html" id="52123d55-9289-464b-ba05-f2f6001d72e0">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="6dadeb8e-54fa-4c14-8f22-fbef42988de5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="substitutionGroup" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/substitutionGroup/index.html" id="0c39f5d0-772e-4f34-9222-484442797fd4">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="6dadeb8e-54fa-4c14-8f22-fbef42988de5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDSimpleFinal" link="references/eClassifiers/XSDSimpleFinal/index.html" id="03551d1c-c0f5-4da3-8b0c-59da2d664afa">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="312" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="fd9cf5c5-6b51-457c-b7df-11d2bd740e54" edge="1" parent="1" source="03551d1c-c0f5-4da3-8b0c-59da2d664afa" target="03551d1c-c0f5-4da3-8b0c-59da2d664afa">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDConcreteComponent" link="references/eClassifiers/XSDConcreteComponent/index.html" id="672ba702-5958-42e3-bf33-328f9edd0501">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1117.0048618214544" y="871.5257853833696" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="diagnostics" link="references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/diagnostics/index.html" id="baaa958e-cb3c-4a84-8ee7-9f95876bfeb7">
+          <mxCell edge="1" parent="1" source="672ba702-5958-42e3-bf33-328f9edd0501" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="50409bfa-49cb-4d1c-afd4-857d17cc6124">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="container" link="references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/container/index.html" id="dd1fdc7e-1d88-427a-bb53-f8ef1955efc0">
+          <mxCell edge="1" parent="1" source="672ba702-5958-42e3-bf33-328f9edd0501" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="672ba702-5958-42e3-bf33-328f9edd0501">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="rootContainer" link="references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/rootContainer/index.html" id="f99c4342-4e4f-4327-98cc-3d0c2d2c0eb5">
+          <mxCell edge="1" parent="1" source="672ba702-5958-42e3-bf33-328f9edd0501" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="672ba702-5958-42e3-bf33-328f9edd0501">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="744e1713-e439-47db-981e-323905237462" edge="1" parent="1" source="50409bfa-49cb-4d1c-afd4-857d17cc6124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="672ba702-5958-42e3-bf33-328f9edd0501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="components" link="references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/components/index.html" id="2d5c34be-7d77-46b0-98d4-97bdf13653c0">
+          <mxCell edge="1" parent="1" source="50409bfa-49cb-4d1c-afd4-857d17cc6124" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="672ba702-5958-42e3-bf33-328f9edd0501">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="primaryComponent" link="references/eClassifiers/XSDDiagnostic/references/eStructuralFeatures/primaryComponent/index.html" id="0e3f25fc-2663-4b70-bfe0-cb7f548a22cd">
+          <mxCell edge="1" parent="1" source="50409bfa-49cb-4d1c-afd4-857d17cc6124" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="672ba702-5958-42e3-bf33-328f9edd0501">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDFeature" link="references/eClassifiers/XSDFeature/index.html" id="38007830-c471-4eac-a3fa-772c0991aed6">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="966.6970059311353" y="928.1905026793777" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resolvedFeature" link="references/eClassifiers/XSDFeature/references/eStructuralFeatures/resolvedFeature/index.html" id="f4d0d8fb-0eef-49d8-9174-7d21aade815c">
+          <mxCell edge="1" parent="1" source="38007830-c471-4eac-a3fa-772c0991aed6" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="38007830-c471-4eac-a3fa-772c0991aed6">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="c437c6f8-3521-4f00-8c46-84bc4862b014" edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="38007830-c471-4eac-a3fa-772c0991aed6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDOrderedFacet" link="references/eClassifiers/XSDOrderedFacet/index.html" id="95d76ff0-f8e3-439f-b30f-c527a65105be">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="513.929605729686" y="380.9675013875005" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDSubstitutionGroupExclusions" link="references/eClassifiers/XSDSubstitutionGroupExclusions/index.html" id="6a649f28-391e-4841-aa78-b0e513c605e1">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="190" x="-70" y="903" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3fc67a88-8489-4f99-a151-f3c7d0acc782" edge="1" parent="1" source="6a649f28-391e-4841-aa78-b0e513c605e1" target="6a649f28-391e-4841-aa78-b0e513c605e1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDInclude" link="references/eClassifiers/XSDInclude/index.html" id="74dc4934-c927-48b7-acfc-8a34c6b17963">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1585.1507132665226" y="730.4710715266716" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDSchemaCompositor" link="references/eClassifiers/XSDSchemaCompositor/index.html" id="d26efb4e-290a-4d94-a608-b9740a0c0fdd">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1595.1212031924806" y="874.3636908929175" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="f5058576-afec-4d3f-a1fa-a44a6bbb23fe" edge="1" parent="1" source="74dc4934-c927-48b7-acfc-8a34c6b17963" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="d26efb4e-290a-4d94-a608-b9740a0c0fdd">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDXPathDefinition" link="references/eClassifiers/XSDXPathDefinition/index.html" id="ca62148a-c4f7-4788-87b0-1d99012feb26">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1432.0779007147175" y="789.6654135346218" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDImport" link="references/eClassifiers/XSDImport/index.html" id="f61a1168-7ede-4e33-b396-63b2393ae88c">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1557.5281370988284" y="668.1484403027885" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDDerivationMethod" link="references/eClassifiers/XSDDerivationMethod/index.html" id="d352c43f-a96c-4730-83c2-affbf58a475a">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="140" x="-20" y="1085" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="86f1a1f8-1213-4aff-ae6d-a162b765959f" edge="1" parent="1" source="d352c43f-a96c-4730-83c2-affbf58a475a" target="d352c43f-a96c-4730-83c2-affbf58a475a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDTerm" link="references/eClassifiers/XSDTerm/index.html" id="4f04a8a0-d678-4e03-8df4-204330d665d4">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1261.3799642742117" y="666.1845013754576" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="a7f647c7-9984-48e4-9e0a-63d3012c9b53" edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="4f04a8a0-d678-4e03-8df4-204330d665d4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDIdentityConstraintCategory" link="references/eClassifiers/XSDIdentityConstraintCategory/index.html" id="10e21661-6f76-4316-964d-23d228b0419d">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="190" x="-70" y="540" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="14ba8ff9-82c8-4fb9-8821-6162d9010511" edge="1" parent="1" source="10e21661-6f76-4316-964d-23d228b0419d" target="10e21661-6f76-4316-964d-23d228b0419d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDFractionDigitsFacet" link="references/eClassifiers/XSDFractionDigitsFacet/index.html" id="bb65340f-663e-49aa-81a8-c3c4df0f8151">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="627.961026004763" y="437.1588074954417" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="DOMAttr" link="references/eClassifiers/DOMAttr/index.html" id="47ff4359-e470-4845-9611-bcd15ecbe73e">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="1129.9999531035683" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="d8e565de-bb34-4433-8f4f-d0a4b13d7020" edge="1" parent="1" source="47ff4359-e470-4845-9611-bcd15ecbe73e" target="47ff4359-e470-4845-9611-bcd15ecbe73e">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="DOMDocument" link="references/eClassifiers/DOMDocument/index.html" id="333dd7b9-a8b0-407c-aa9f-ba256efe4982">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="131" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="a5edb2ba-797f-4aeb-b631-1ee365f46990" edge="1" parent="1" source="333dd7b9-a8b0-407c-aa9f-ba256efe4982" target="333dd7b9-a8b0-407c-aa9f-ba256efe4982">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDDiagnosticSeverity" link="references/eClassifiers/XSDDiagnosticSeverity/index.html" id="c4e32f74-2d99-43b6-ac7d-352306038bce">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="140" x="-20" y="721" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="43f1bb29-9ce5-4502-a0db-be324572d153" edge="1" parent="1" source="c4e32f74-2d99-43b6-ac7d-352306038bce" target="c4e32f74-2d99-43b6-ac7d-352306038bce">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDWildcard" link="references/eClassifiers/XSDWildcard/index.html" id="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1110.2315425041452" y="710.5418173204599" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3e339923-cff7-4f19-a5f6-8fa0e6123e56" edge="1" parent="1" source="929727c3-b3f0-47b4-ad86-c80c0e43ff86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="4f04a8a0-d678-4e03-8df4-204330d665d4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDForm" link="references/eClassifiers/XSDForm/index.html" id="ddc3e9dd-4a32-4acc-b236-eb58021c2f88">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="85" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="718114a3-3440-4c02-910d-0d42edc89e9d" edge="1" parent="1" source="ddc3e9dd-4a32-4acc-b236-eb58021c2f88" target="ddc3e9dd-4a32-4acc-b236-eb58021c2f88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDFundamentalFacet" link="references/eClassifiers/XSDFundamentalFacet/index.html" id="01c9538b-3ef8-4827-9b77-43110f412bee">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="633.9629862802284" y="500.8566722920526" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="94ac9871-c370-4997-9a8e-9c91ad39fe4a" edge="1" parent="1" source="95d76ff0-f8e3-439f-b30f-c527a65105be" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01c9538b-3ef8-4827-9b77-43110f412bee">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDMinInclusiveFacet" link="references/eClassifiers/XSDMinInclusiveFacet/index.html" id="997c8c8f-7052-4ede-ae70-9d2ea604deed">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="659.5135738109085" y="306.91051723934294" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9a6b4755-2463-4cdd-89d4-80000d2c8385" edge="1" parent="1" source="997c8c8f-7052-4ede-ae70-9d2ea604deed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6d869fea-daa7-4611-8444-2e1d4ffa5ce5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDCardinality" link="references/eClassifiers/XSDCardinality/index.html" id="32c57fc7-26a6-4376-98e5-1530cfc90109">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-0.0020075076719763274" y="585" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="96b0d7c9-c717-42bc-b2a8-cb29071c6469" edge="1" parent="1" source="32c57fc7-26a6-4376-98e5-1530cfc90109" target="32c57fc7-26a6-4376-98e5-1530cfc90109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDModelGroupDefinition" link="references/eClassifiers/XSDModelGroupDefinition/index.html" id="6a36eb10-ec03-4a20-9f91-94c7a063f54b">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1413.8135875367818" y="728.2526837854467" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resolvedModelGroupDefinition" link="references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/resolvedModelGroupDefinition/index.html" id="d27fbc9e-5658-4e0f-9a3c-f88faf539e49">
+          <mxCell edge="1" parent="1" source="6a36eb10-ec03-4a20-9f91-94c7a063f54b" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="6a36eb10-ec03-4a20-9f91-94c7a063f54b">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDMaxLengthFacet" link="references/eClassifiers/XSDMaxLengthFacet/index.html" id="c5faa9a0-8f70-401b-8c03-55415acb30a9">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="689.2982843821877" y="244.71293699761875" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDNotationDeclaration" link="references/eClassifiers/XSDNotationDeclaration/index.html" id="f58c9ca8-fdf1-4456-bc79-7b9624234d5a">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1402.4713448787948" y="991.6070402861249" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDAttributeGroupDefinition" link="references/eClassifiers/XSDAttributeGroupDefinition/index.html" id="a51622d9-0819-48dd-b2f2-01b7ff4fc973">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="135" x="1112.5884154539417" y="814.6259456488915" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeWildcardContent" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeWildcardContent/index.html" id="16cce2db-a4a0-424d-8861-110d02830e76">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeWildcard" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeWildcard/index.html" id="7d315b2b-8b74-4271-a199-c104425a1bae">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="syntheticWildcard" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/syntheticWildcard/index.html" id="4e35ab16-3918-4511-8a45-cc146be51c88">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resolvedAttributeGroupDefinition" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/resolvedAttributeGroupDefinition/index.html" id="f39e7903-7a8e-4569-867a-c870edd812eb">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="a51622d9-0819-48dd-b2f2-01b7ff4fc973">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="DOMNode" link="references/eClassifiers/DOMNode/index.html" id="3ddd659b-fb18-4bd1-aa07-055f1f72c911">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-0.003008256921248176" y="267" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="ef6aed8d-77d4-4fb2-aa50-9a50b70bd7ba" edge="1" parent="1" source="3ddd659b-fb18-4bd1-aa07-055f1f72c911" target="3ddd659b-fb18-4bd1-aa07-055f1f72c911">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDBoundedFacet" link="references/eClassifiers/XSDBoundedFacet/index.html" id="06604dce-1734-4c93-bf6d-af437defe36c">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="633.9669859155833" y="646.0019601642372" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="ae50f832-eab9-4e3e-b6a5-be79355b6c94" edge="1" parent="1" source="06604dce-1734-4c93-bf6d-af437defe36c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01c9538b-3ef8-4827-9b77-43110f412bee">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDContentTypeCategory" link="references/eClassifiers/XSDContentTypeCategory/index.html" id="ef3b31eb-358f-4b61-ac87-88e3cd19c85f">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="160" x="-40" y="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="5a1f5f0a-a151-48f4-acf5-bde15e3dcdf2" edge="1" parent="1" source="ef3b31eb-358f-4b61-ac87-88e3cd19c85f" target="ef3b31eb-358f-4b61-ac87-88e3cd19c85f">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDParticle" link="references/eClassifiers/XSDParticle/index.html" id="80b90e2f-6a87-46d6-a052-aa2a7498c0ea">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1147.4022734226944" y="609.1360723565452" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="term" link="references/eClassifiers/XSDParticle/references/eStructuralFeatures/term/index.html" id="0be9578a-d817-4770-9b20-aae4e45ce4aa">
+          <mxCell edge="1" parent="1" source="80b90e2f-6a87-46d6-a052-aa2a7498c0ea" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="4f04a8a0-d678-4e03-8df4-204330d665d4">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDMinExclusiveFacet" link="references/eClassifiers/XSDMinExclusiveFacet/index.html" id="1e82ca2e-1ab4-4385-b4a8-6445190f26ce">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="966.3938021089613" y="304.57195730211413" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="60aa5ddd-708f-4d2f-8660-7bb4b1e3c8f3" edge="1" parent="1" source="1e82ca2e-1ab4-4385-b4a8-6445190f26ce" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6d869fea-daa7-4611-8444-2e1d4ffa5ce5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDSchema" link="references/eClassifiers/XSDSchema/index.html" id="d761ff79-ce96-4171-840a-c7377636844d">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1254.577540946694" y="877.0004252796763" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="modelGroupDefinitions" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/modelGroupDefinitions/index.html" id="59346e59-cefe-4e05-9c3b-91a96579a02d">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="6a36eb10-ec03-4a20-9f91-94c7a063f54b">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="notationDeclarations" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/notationDeclarations/index.html" id="0e995317-da34-42a1-b434-0359f2b9d03d">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="f58c9ca8-fdf1-4456-bc79-7b9624234d5a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="elementDeclarations" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/elementDeclarations/index.html" id="0b88f528-b572-4abf-a7e9-ce99151fe4d6">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="6dadeb8e-54fa-4c14-8f22-fbef42988de5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="allDiagnostics" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/allDiagnostics/index.html" id="835ffa2e-e44b-4229-b349-15a2765c5a6f">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="50409bfa-49cb-4d1c-afd4-857d17cc6124">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeGroupDefinitions" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/attributeGroupDefinitions/index.html" id="50e2b69f-e56e-4dba-9707-ba6d2b44c6f4">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="a51622d9-0819-48dd-b2f2-01b7ff4fc973">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="rootVersion" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/rootVersion/index.html" id="40fa35c0-572e-4536-ab0e-8a829091601e">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="originalVersion" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/originalVersion/index.html" id="57751ece-f63f-42d0-9a7e-9ce533e7a895">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="incorporatedVersions" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/incorporatedVersions/index.html" id="a213e427-03c4-4ea8-91a6-3ef0f1c452d6">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="schemaForSchema" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/schemaForSchema/index.html" id="a223251d-5b3d-464c-b377-18327ab4b174">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="incorporatedSchema" link="references/eClassifiers/XSDSchemaCompositor/references/eStructuralFeatures/incorporatedSchema/index.html" id="555a4182-f25e-4f16-a08e-e74f750ee0fe">
+          <mxCell edge="1" parent="1" source="d26efb4e-290a-4d94-a608-b9740a0c0fdd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="schema" link="references/eClassifiers/XSDConcreteComponent/references/eStructuralFeatures/schema/index.html" id="f9d40ff6-ccf1-493e-ac6c-e21784dd18ba">
+          <mxCell edge="1" parent="1" source="672ba702-5958-42e3-bf33-328f9edd0501" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDVariety" link="references/eClassifiers/XSDVariety/index.html" id="abbeedda-634d-445b-9b9d-6eae74250915">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="994" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="85343585-f5a6-47be-9528-828b16be9680" edge="1" parent="1" source="abbeedda-634d-445b-9b9d-6eae74250915" target="abbeedda-634d-445b-9b9d-6eae74250915">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDAttributeUseCategory" link="references/eClassifiers/XSDAttributeUseCategory/index.html" id="5b9550f5-8057-486c-9a0c-c5ce2f6d2c78">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="149.99" x="-30" y="767" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="49de326a-fdbb-48eb-bbd3-11aa3e27a6c5" edge="1" parent="1" source="5b9550f5-8057-486c-9a0c-c5ce2f6d2c78" target="5b9550f5-8057-486c-9a0c-c5ce2f6d2c78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="DOMElement" link="references/eClassifiers/DOMElement/index.html" id="0b3e66c6-f502-4960-afc6-ee113b789342">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="358" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="bc7a8cf5-48f2-4ea4-b5c9-eb24883d193e" edge="1" parent="1" source="0b3e66c6-f502-4960-afc6-ee113b789342" target="0b3e66c6-f502-4960-afc6-ee113b789342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDSchemaContent" link="references/eClassifiers/XSDSchemaContent/index.html" id="e4406138-2fd9-427e-adb5-4d6f71251d47">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1259.4293108606914" y="935.7923851924915" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="af7cb9fb-d309-473c-9c78-919d3a9d17c3" edge="1" parent="1" source="e4406138-2fd9-427e-adb5-4d6f71251d47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="672ba702-5958-42e3-bf33-328f9edd0501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="contents" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/contents/index.html" id="4cb4027c-0bdb-43ea-bd9c-fb0618d559f4">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="e4406138-2fd9-427e-adb5-4d6f71251d47">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="a74783ef-f813-43ba-a305-a19d5483bd18" edge="1" parent="1" source="f58c9ca8-fdf1-4456-bc79-7b9624234d5a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="e4406138-2fd9-427e-adb5-4d6f71251d47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3abf129-9cb9-4a5a-834e-c301c97a0faa" edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="e4406138-2fd9-427e-adb5-4d6f71251d47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDSimpleTypeDefinition" link="references/eClassifiers/XSDSimpleTypeDefinition/index.html" id="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="783.4452626230992" y="441.66748110018705" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="fractionDigitsFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/fractionDigitsFacet/index.html" id="fb606a57-022d-4f21-b73c-fffb66bb3281">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="bb65340f-663e-49aa-81a8-c3c4df0f8151">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveFractionDigitsFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveFractionDigitsFacet/index.html" id="55a73099-89e8-4de3-bbe7-8fe6d72bfeb6">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="bb65340f-663e-49aa-81a8-c3c4df0f8151">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="fundamentalFacets" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/fundamentalFacets/index.html" id="581bc831-4d3d-4e50-842a-75edbd2a2b00">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="01c9538b-3ef8-4827-9b77-43110f412bee">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="boundedFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/boundedFacet/index.html" id="24ba8327-128d-4bb4-ac4d-f1286a954fcb">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="06604dce-1734-4c93-bf6d-af437defe36c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="orderedFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/orderedFacet/index.html" id="27de5243-b98d-4f37-b941-cd0273d9c92a">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="95d76ff0-f8e3-439f-b30f-c527a65105be">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="maxLengthFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxLengthFacet/index.html" id="025017fb-96e5-46fa-a618-7c0aa1df12d3">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="c5faa9a0-8f70-401b-8c03-55415acb30a9">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveMaxLengthFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMaxLengthFacet/index.html" id="b1e8db70-6d51-490a-8665-127c73341b93">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="c5faa9a0-8f70-401b-8c03-55415acb30a9">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="minInclusiveFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minInclusiveFacet/index.html" id="07e96b1e-1072-45bd-be68-f5c2fa04e513">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="997c8c8f-7052-4ede-ae70-9d2ea604deed">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="minFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minFacet/index.html" id="d6351b85-8c68-49b5-873e-7286a9c9590d">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="6d869fea-daa7-4611-8444-2e1d4ffa5ce5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveMinFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMinFacet/index.html" id="5d158118-d88b-4286-90a6-7842b876b762">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="6d869fea-daa7-4611-8444-2e1d4ffa5ce5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="patternFacets" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/patternFacets/index.html" id="44441d51-5aed-4f12-ab1d-eccbfaf3d752">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="130985cd-d01c-4c8b-870d-f996df2058ce">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectivePatternFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectivePatternFacet/index.html" id="a7f71175-7212-4895-a023-9a30d61e6185">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="130985cd-d01c-4c8b-870d-f996df2058ce">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="minExclusiveFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minExclusiveFacet/index.html" id="3ec4b311-5219-42b4-b0da-6ef8a64a8ed7">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="1e82ca2e-1ab4-4385-b4a8-6445190f26ce">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="contents" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/contents/index.html" id="9fe2babc-f0fd-4988-b84b-71f4fdbc2282">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="memberTypeDefinitions" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/memberTypeDefinitions/index.html" id="a0e3ece5-04f6-4154-9906-6e5c038610e8">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="baseTypeDefinition" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/baseTypeDefinition/index.html" id="dc4cfe5a-ac02-42c8-84bf-57577a21eb4e">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="primitiveTypeDefinition" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/primitiveTypeDefinition/index.html" id="4e71a234-ed97-46da-9000-34499a071379">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="itemTypeDefinition" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/itemTypeDefinition/index.html" id="76723d19-dc83-4586-81cb-8bfde6b844f5">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="rootTypeDefinition" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/rootTypeDefinition/index.html" id="52d88ab2-c5f2-45d9-8106-26f57c896832">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDModelGroup" link="references/eClassifiers/XSDModelGroup/index.html" id="3ddcbfbc-0f57-46ac-b71f-7cbc594edd87">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1323.4504030624562" y="607.2410166561228" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="contents" link="references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/contents/index.html" id="c591f7c9-c3ee-4a40-8d2e-4bd410472bbb">
+          <mxCell edge="1" parent="1" source="3ddcbfbc-0f57-46ac-b71f-7cbc594edd87" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="80b90e2f-6a87-46d6-a052-aa2a7498c0ea">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="particles" link="references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/particles/index.html" id="7c7f3268-49ca-4bd2-8ae9-6300228dd4c5">
+          <mxCell edge="1" parent="1" source="3ddcbfbc-0f57-46ac-b71f-7cbc594edd87" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="80b90e2f-6a87-46d6-a052-aa2a7498c0ea">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="4a2f0c6d-0e44-42ba-98bb-114b9ecdbc45" edge="1" parent="1" source="3ddcbfbc-0f57-46ac-b71f-7cbc594edd87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="4f04a8a0-d678-4e03-8df4-204330d665d4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="modelGroup" link="references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/modelGroup/index.html" id="86a184d9-0f8d-4388-9908-c42ea1e5a63c">
+          <mxCell edge="1" parent="1" source="6a36eb10-ec03-4a20-9f91-94c7a063f54b" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="3ddcbfbc-0f57-46ac-b71f-7cbc594edd87">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDOrdered" link="references/eClassifiers/XSDOrdered/index.html" id="838b855a-71ef-4bc1-a630-94aeb75df2d3">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-0.004438996940052675" y="176" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="d29604b2-fa47-4d55-8dfa-74255e935cb8" edge="1" parent="1" source="838b855a-71ef-4bc1-a630-94aeb75df2d3" target="838b855a-71ef-4bc1-a630-94aeb75df2d3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDDisallowedSubstitutions" link="references/eClassifiers/XSDDisallowedSubstitutions/index.html" id="679f345b-9247-47f5-9570-d9469723d4df">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="170" x="-50" y="857" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="226c58e3-8151-409f-bbdd-e3aee45dd6c2" edge="1" parent="1" source="679f345b-9247-47f5-9570-d9469723d4df" target="679f345b-9247-47f5-9570-d9469723d4df">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDSchemaDirective" link="references/eClassifiers/XSDSchemaDirective/index.html" id="31b90353-3827-4ab5-9717-e77f0a1ae397">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1448.0931078512392" y="854.4063822972375" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9657b9ad-cc0d-49ff-83d6-04d9f13b4d10" edge="1" parent="1" source="31b90353-3827-4ab5-9717-e77f0a1ae397" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="e4406138-2fd9-427e-adb5-4d6f71251d47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="resolvedSchema" link="references/eClassifiers/XSDSchemaDirective/references/eStructuralFeatures/resolvedSchema/index.html" id="fc90ae86-d547-4157-b2b4-23d0568b4501">
+          <mxCell edge="1" parent="1" source="31b90353-3827-4ab5-9717-e77f0a1ae397" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="d761ff79-ce96-4171-840a-c7377636844d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="referencingDirectives" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/referencingDirectives/index.html" id="01bddc74-3799-4eac-b12c-1baeb8abceeb">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="31b90353-3827-4ab5-9717-e77f0a1ae397">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e16716ba-92bb-4215-a99b-1bea418c0cea" edge="1" parent="1" source="f61a1168-7ede-4e33-b396-63b2393ae88c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="31b90353-3827-4ab5-9717-e77f0a1ae397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="043ca029-baad-467a-a803-924c56feda77" edge="1" parent="1" source="d26efb4e-290a-4d94-a608-b9740a0c0fdd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="31b90353-3827-4ab5-9717-e77f0a1ae397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDTypeDefinition" link="references/eClassifiers/XSDTypeDefinition/index.html" id="f6272327-d24d-408f-aabf-025bd5da776a">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1116.7114748549232" y="756.5412041621867" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="simpleType" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/simpleType/index.html" id="01009da5-d72a-4524-8a7b-1a4e7af63939">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="complexType" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/complexType/index.html" id="9a5b2c9f-8a00-414c-9241-2a0185bd2ed6">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="80b90e2f-6a87-46d6-a052-aa2a7498c0ea">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="rootType" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/rootType/index.html" id="834acfd5-1e65-4265-8057-638c12c18a85">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="baseType" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/baseType/index.html" id="16190ff6-5b71-4b6c-b528-a4c4fde14d62">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="215d41e7-8ba1-481a-b248-b3bd84ae1594" edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="f6272327-d24d-408f-aabf-025bd5da776a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="typeDefinitions" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/typeDefinitions/index.html" id="ab3c5dcd-94ca-425b-b1de-04c76cae55d2">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="type" link="references/eClassifiers/XSDFeature/references/eStructuralFeatures/type/index.html" id="26e06978-1e2b-405c-b622-783b5c3b6b2c">
+          <mxCell edge="1" parent="1" source="38007830-c471-4eac-a3fa-772c0991aed6" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="anonymousTypeDefinition" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/anonymousTypeDefinition/index.html" id="0c834f4c-8b87-402d-8a90-09d75211498f">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="typeDefinition" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/typeDefinition/index.html" id="c838e669-de6f-4cff-a496-3735fa9790ef">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDConstraint" link="references/eClassifiers/XSDConstraint/index.html" id="dea68ca5-d2c1-49c3-8ce9-888642c07043">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="0.0011415269738677125" y="494" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="835cca36-d54d-407a-9756-67f5129c024d" edge="1" parent="1" source="dea68ca5-d2c1-49c3-8ce9-888642c07043" target="dea68ca5-d2c1-49c3-8ce9-888642c07043">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDMaxInclusiveFacet" link="references/eClassifiers/XSDMaxInclusiveFacet/index.html" id="7d648d07-6e30-4b45-a1d1-da18b0c0d6d0">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="130" x="410" y="150" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="maxInclusiveFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxInclusiveFacet/index.html" id="7ce8ba3a-ec45-4d80-a27d-5cbf5e1b2db2">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="7d648d07-6e30-4b45-a1d1-da18b0c0d6d0">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDNamedComponent" link="references/eClassifiers/XSDNamedComponent/index.html" id="2586732c-e26a-417a-9705-19ba9ed088c4">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1118.6370888259703" y="948.6123606823951" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="d936f21a-621d-4bf1-a936-82fd635870d2" edge="1" parent="1" source="f58c9ca8-fdf1-4456-bc79-7b9624234d5a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="2586732c-e26a-417a-9705-19ba9ed088c4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cf2cc25d-5704-4225-ba86-3e0aaa2d259b" edge="1" parent="1" source="38007830-c471-4eac-a3fa-772c0991aed6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="2586732c-e26a-417a-9705-19ba9ed088c4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDProhibitedSubstitutions" link="references/eClassifiers/XSDProhibitedSubstitutions/index.html" id="98246786-fa95-4184-91fb-f4d38e77acf3">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="160" x="-40" y="449" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="45b5110d-70ba-4b5c-b1ad-4e30f9bfa215" edge="1" parent="1" source="98246786-fa95-4184-91fb-f4d38e77acf3" target="98246786-fa95-4184-91fb-f4d38e77acf3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDRedefineContent" link="references/eClassifiers/XSDRedefineContent/index.html" id="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1295.9135254872947" y="788.2905532874504" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="99192813-0cb7-4324-a8cf-29e7fe14a202" edge="1" parent="1" source="b82402bf-2a5d-4446-be8e-aa77a83a8f86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="e4406138-2fd9-427e-adb5-4d6f71251d47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6bfcb63f-cbe8-46ee-a072-6972f26e56ee" edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="597a85cc-ec60-46cd-b318-6cc6d5d53fcd" edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51ababb1-d0c9-41e1-9d88-31cc99a109a0" edge="1" parent="1" source="6a36eb10-ec03-4a20-9f91-94c7a063f54b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDComplexTypeContent" link="references/eClassifiers/XSDComplexTypeContent/index.html" id="1390be73-a9d3-495f-9e5c-6fada1a83911">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1002.10750417638" y="545.1623377954639" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3fa0cac9-05f7-4085-bf39-bf4289015b1b" edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="1390be73-a9d3-495f-9e5c-6fada1a83911">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7b0f47bb-1dfa-4313-9baa-b1825c9b02fa" edge="1" parent="1" source="80b90e2f-6a87-46d6-a052-aa2a7498c0ea" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="1390be73-a9d3-495f-9e5c-6fada1a83911">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDNamespaceConstraintCategory" link="references/eClassifiers/XSDNamespaceConstraintCategory/index.html" id="66c51040-f175-4db1-abbf-096c7657fa14">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="200" x="-80" y="403" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="82137f2d-e8ac-438c-82a8-3949b0d584e2" edge="1" parent="1" source="66c51040-f175-4db1-abbf-096c7657fa14" target="66c51040-f175-4db1-abbf-096c7657fa14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDRedefine" link="references/eClassifiers/XSDRedefine/index.html" id="67b6091f-e1d9-45af-b020-4e5c7d7373ca">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1586.3705009379603" y="794.1196788976714" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="contents" link="references/eClassifiers/XSDRedefine/references/eStructuralFeatures/contents/index.html" id="694a5006-0e00-433f-a8c9-81e2a58bc2c3">
+          <mxCell edge="1" parent="1" source="67b6091f-e1d9-45af-b020-4e5c7d7373ca" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="ad9f8321-7576-4c7c-a2c7-3236c5ab2a9b" edge="1" parent="1" source="67b6091f-e1d9-45af-b020-4e5c7d7373ca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="d26efb4e-290a-4d94-a608-b9740a0c0fdd">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDAttributeDeclaration" link="references/eClassifiers/XSDAttributeDeclaration/index.html" id="199e0104-b815-4c80-804b-4e0c0826c512">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="966.6630734943025" y="771.7161862316264" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="005174c2-301e-46b8-b553-a0c2c45178a7" edge="1" parent="1" source="199e0104-b815-4c80-804b-4e0c0826c512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="e4406138-2fd9-427e-adb5-4d6f71251d47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="anonymousTypeDefinition" link="references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/anonymousTypeDefinition/index.html" id="7cdc71c9-122a-4700-b773-59538c820704">
+          <mxCell edge="1" parent="1" source="199e0104-b815-4c80-804b-4e0c0826c512" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="typeDefinition" link="references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/typeDefinition/index.html" id="87f0354a-2df3-4490-a0ef-227c079342f2">
+          <mxCell edge="1" parent="1" source="199e0104-b815-4c80-804b-4e0c0826c512" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6a041bac-d042-491e-8ce4-25ad609a0e6c" edge="1" parent="1" source="199e0104-b815-4c80-804b-4e0c0826c512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="38007830-c471-4eac-a3fa-772c0991aed6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="resolvedAttributeDeclaration" link="references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/resolvedAttributeDeclaration/index.html" id="68a66b6f-0f2d-4ee0-bc84-13f1fb3c2861">
+          <mxCell edge="1" parent="1" source="199e0104-b815-4c80-804b-4e0c0826c512" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="199e0104-b815-4c80-804b-4e0c0826c512">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeDeclarations" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/attributeDeclarations/index.html" id="b065c663-dbc7-4dc3-87cf-3ec2d7c7cd2b">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="199e0104-b815-4c80-804b-4e0c0826c512">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDCardinalityFacet" link="references/eClassifiers/XSDCardinalityFacet/index.html" id="5488dfa2-4fe1-4782-9998-2e1d1120cd8c">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="432.9710010772686" y="454.4263242075531" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="55c74c69-fde8-49f0-90ab-b889fb3540ac" edge="1" parent="1" source="5488dfa2-4fe1-4782-9998-2e1d1120cd8c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01c9538b-3ef8-4827-9b77-43110f412bee">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="cardinalityFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/cardinalityFacet/index.html" id="32671118-243b-4d8c-bfa6-d84aacc6d730">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="5488dfa2-4fe1-4782-9998-2e1d1120cd8c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDLengthFacet" link="references/eClassifiers/XSDLengthFacet/index.html" id="91bee854-211d-486f-ba39-b5adae4f9ec0">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="511.9986926277896" y="257.0881473855962" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="lengthFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/lengthFacet/index.html" id="31aff29d-a766-41bb-927d-2ffce084a63e">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="91bee854-211d-486f-ba39-b5adae4f9ec0">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveLengthFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveLengthFacet/index.html" id="b7966053-fc54-4792-ae8e-393aba072437">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="91bee854-211d-486f-ba39-b5adae4f9ec0">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDFacet" link="references/eClassifiers/XSDFacet/index.html" id="70a97fd9-2576-46b3-aad7-d4befb08bc86">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="916.3081436232127" y="606.247365877334" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="simpleTypeDefinition" link="references/eClassifiers/XSDFacet/references/eStructuralFeatures/simpleTypeDefinition/index.html" id="2fb888da-2eba-41ed-a53e-9fe3881c093d">
+          <mxCell edge="1" parent="1" source="70a97fd9-2576-46b3-aad7-d4befb08bc86" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9992415d-8b88-4fa7-9a52-aa687b5caf1d">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="syntheticFacets" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/syntheticFacets/index.html" id="981b5375-efb6-426a-a2f1-eae55bb4fb75">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="70a97fd9-2576-46b3-aad7-d4befb08bc86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="f654d883-3d10-435f-96c8-a84e9b316249" edge="1" parent="1" source="01c9538b-3ef8-4827-9b77-43110f412bee" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="70a97fd9-2576-46b3-aad7-d4befb08bc86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDFixedFacet" link="references/eClassifiers/XSDFixedFacet/index.html" id="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="359.9940807815039" y="-159.99854829152247" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="031b991f-e8be-477d-9159-3fe97abadc0c" edge="1" parent="1" source="91bee854-211d-486f-ba39-b5adae4f9ec0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47d1936b-9adb-4c5b-a39c-c5549edff741" edge="1" parent="1" source="c5faa9a0-8f70-401b-8c03-55415acb30a9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e440c4d0-7a9b-4d6c-ab6d-6d7897c12b95" edge="1" parent="1" source="bb65340f-663e-49aa-81a8-c3c4df0f8151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4f3f4d3-7aa8-4ab9-88c6-ceef17ffc20f" edge="1" parent="1" source="6d869fea-daa7-4611-8444-2e1d4ffa5ce5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDWhiteSpace" link="references/eClassifiers/XSDWhiteSpace/index.html" id="729044d6-af2a-4b52-905f-8a50f7ed58f5">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="948" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="70a813cb-56d4-4c67-a3d6-bfd1d994b4b2" edge="1" parent="1" source="729044d6-af2a-4b52-905f-8a50f7ed58f5" target="729044d6-af2a-4b52-905f-8a50f7ed58f5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDComplexFinal" link="references/eClassifiers/XSDComplexFinal/index.html" id="a8453133-c8eb-4f4a-b84f-118d49196a1a">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-0.003673699977866818" y="630" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="ed32f397-17a8-4249-b52b-2df845b2e587" edge="1" parent="1" source="a8453133-c8eb-4f4a-b84f-118d49196a1a" target="a8453133-c8eb-4f4a-b84f-118d49196a1a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDMinLengthFacet" link="references/eClassifiers/XSDMinLengthFacet/index.html" id="c9c4ae40-b653-47b0-85a4-f488fecca9c7">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="552.9727490974853" y="49.99349028527172" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="dbb38059-bdbc-43f4-84f7-c698b16a2f92" edge="1" parent="1" source="c9c4ae40-b653-47b0-85a4-f488fecca9c7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" />
+              <mxPoint x="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="minLengthFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/minLengthFacet/index.html" id="80b5a612-e51c-45bb-8f9f-941770fbc6af">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="c9c4ae40-b653-47b0-85a4-f488fecca9c7">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveMinLengthFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMinLengthFacet/index.html" id="1da818c9-d127-4080-93b6-c1cdaac8dde3">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="c9c4ae40-b653-47b0-85a4-f488fecca9c7">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDConstrainingFacet" link="references/eClassifiers/XSDConstrainingFacet/index.html" id="084629a6-c835-4f6e-bc67-a12b6ccd6bfc">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="943.328929023543" y="447.25857794404345" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3911a72e-57c7-4ab5-8b56-9b59124a7662" edge="1" parent="1" source="084629a6-c835-4f6e-bc67-a12b6ccd6bfc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="70a97fd9-2576-46b3-aad7-d4befb08bc86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b6c2820-095a-4500-a2e0-2fc742f3c9e3" edge="1" parent="1" source="a597ebe2-3014-4083-931b-0c93e2df1396" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="084629a6-c835-4f6e-bc67-a12b6ccd6bfc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="facetContents" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/facetContents/index.html" id="f8d64e2a-8376-4aa5-b574-54cb86a161f2">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="084629a6-c835-4f6e-bc67-a12b6ccd6bfc">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="facets" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/facets/index.html" id="55aa22c9-d348-40c8-bf55-5db14ccd41bd">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="084629a6-c835-4f6e-bc67-a12b6ccd6bfc">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDProcessContents" link="references/eClassifiers/XSDProcessContents/index.html" id="e1e4537b-a959-491e-b9c5-f91c27afaaf0">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="130" x="-10" y="812" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="c8175df0-431e-4055-92bd-bbd42226acca" edge="1" parent="1" source="e1e4537b-a959-491e-b9c5-f91c27afaaf0" target="e1e4537b-a959-491e-b9c5-f91c27afaaf0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDMaxFacet" link="references/eClassifiers/XSDMaxFacet/index.html" id="49c29183-72cf-48a3-9c99-1d6532e8fe6c">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="359.9964214373143" y="49.996150734150774" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9d12c6ae-1abf-45b8-affd-372f245ea2ca" edge="1" parent="1" source="49c29183-72cf-48a3-9c99-1d6532e8fe6c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86d957af-ea86-4d98-beab-60450ad52512" edge="1" parent="1" source="7d648d07-6e30-4b45-a1d1-da18b0c0d6d0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="49c29183-72cf-48a3-9c99-1d6532e8fe6c">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="maxFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxFacet/index.html" id="7848d43f-211b-4109-a161-3e81fa1eeed3">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="49c29183-72cf-48a3-9c99-1d6532e8fe6c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveMaxFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveMaxFacet/index.html" id="11bce089-f0e4-425e-8b3f-8eb26f614b35">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="49c29183-72cf-48a3-9c99-1d6532e8fe6c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDComponent" link="references/eClassifiers/XSDComponent/index.html" id="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1105.3029825019905" y="684.5080666516922" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="4f22e2f4-5b1d-413c-970c-008c04e50b16" edge="1" parent="1" source="6abb3fe7-6e93-4acd-8277-c812ac143464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="672ba702-5958-42e3-bf33-328f9edd0501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aded5917-a5f8-4057-a8a0-f2315ec35a30" edge="1" parent="1" source="70a97fd9-2576-46b3-aad7-d4befb08bc86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c891d273-edea-4b9c-8199-6fd8c7bd9f0f" edge="1" parent="1" source="1390be73-a9d3-495f-9e5c-6fada1a83911" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c01646de-447b-443f-a516-96e60c842f87" edge="1" parent="1" source="2586732c-e26a-417a-9705-19ba9ed088c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7c399bf-909c-4ad3-9850-9e9dfce56c19" edge="1" parent="1" source="4f04a8a0-d678-4e03-8df4-204330d665d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc3e6f53-cead-4dc7-89db-173808cc27a0" edge="1" parent="1" source="ca62148a-c4f7-4788-87b0-1d99012feb26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDNumericFacet" link="references/eClassifiers/XSDNumericFacet/index.html" id="148ff163-0c52-433c-81d8-10daf54c942e">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="508.6656380338416" y="320.07314013272816" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="a09136ac-8800-4131-807b-bea47cb25a5a" edge="1" parent="1" source="148ff163-0c52-433c-81d8-10daf54c942e" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01c9538b-3ef8-4827-9b77-43110f412bee">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="numericFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/numericFacet/index.html" id="b35ca1a5-d789-42d3-95c8-0262c67f369f">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="148ff163-0c52-433c-81d8-10daf54c942e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Value" link="references/eClassifiers/Value/index.html" id="8d184952-6525-40f1-8615-adf4bd0cdd47">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="0.00023148681100337853" y="676" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="4e4a6d9a-f8ec-44ea-806c-734e7d721825" edge="1" parent="1" source="8d184952-6525-40f1-8615-adf4bd0cdd47" target="8d184952-6525-40f1-8615-adf4bd0cdd47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDAnnotation" link="references/eClassifiers/XSDAnnotation/index.html" id="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1263.3201255912973" y="727.9471053267315" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="91ea3aaa-d8c3-48f0-ab7c-ae872f7c661a" edge="1" parent="1" source="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4c626ae-2ce6-403a-ad82-60feb8ef884a" edge="1" parent="1" source="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="annotation" link="references/eClassifiers/XSDFacet/references/eStructuralFeatures/annotation/index.html" id="876a4640-eab1-4512-baf2-60b533a257c2">
+          <mxCell edge="1" parent="1" source="70a97fd9-2576-46b3-aad7-d4befb08bc86" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDAttributeDeclaration/references/eStructuralFeatures/annotation/index.html" id="6dcc1731-1555-45e5-9afe-1c3a05b6547c">
+          <mxCell edge="1" parent="1" source="199e0104-b815-4c80-804b-4e0c0826c512" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotations" link="references/eClassifiers/XSDRedefine/references/eStructuralFeatures/annotations/index.html" id="d16c4b07-9fbd-4f63-9c29-04d81d19400b">
+          <mxCell edge="1" parent="1" source="67b6091f-e1d9-45af-b020-4e5c7d7373ca" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/annotation/index.html" id="0194a058-837e-4fde-9dc8-faa9b02ef344">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="derivationAnnotation" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/derivationAnnotation/index.html" id="908349c6-8e82-40fa-a47c-08c551e6478f">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotations" link="references/eClassifiers/XSDTypeDefinition/references/eStructuralFeatures/annotations/index.html" id="46c63f2d-8d1c-4a63-9def-a51babbf7a37">
+          <mxCell edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDModelGroup/references/eStructuralFeatures/annotation/index.html" id="93b0279b-0d53-432d-ac97-af7f347bc3c7">
+          <mxCell edge="1" parent="1" source="3ddcbfbc-0f57-46ac-b71f-7cbc594edd87" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotations" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/annotations/index.html" id="b832e48a-afa8-4f00-88df-0edd434458c1">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/annotation/index.html" id="28902719-33a2-478f-9bc1-bd08793c4e8f">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDNotationDeclaration/references/eStructuralFeatures/annotation/index.html" id="312d047c-ebe1-4059-99fc-0376bf96ba8f">
+          <mxCell edge="1" parent="1" source="f58c9ca8-fdf1-4456-bc79-7b9624234d5a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDModelGroupDefinition/references/eStructuralFeatures/annotation/index.html" id="40f74400-c6aa-4c04-aa9b-f0f8fdabc378">
+          <mxCell edge="1" parent="1" source="6a36eb10-ec03-4a20-9f91-94c7a063f54b" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDWildcard/references/eStructuralFeatures/annotation/index.html" id="c4547457-07cd-4dae-928b-7f97928e7c91">
+          <mxCell edge="1" parent="1" source="929727c3-b3f0-47b4-ad86-c80c0e43ff86" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotations" link="references/eClassifiers/XSDWildcard/references/eStructuralFeatures/annotations/index.html" id="09883b38-abcc-44c6-b7eb-219e34153346">
+          <mxCell edge="1" parent="1" source="929727c3-b3f0-47b4-ad86-c80c0e43ff86" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDImport/references/eStructuralFeatures/annotation/index.html" id="94838778-15c2-469b-a96f-54fd39c1ff80">
+          <mxCell edge="1" parent="1" source="f61a1168-7ede-4e33-b396-63b2393ae88c" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDXPathDefinition/references/eStructuralFeatures/annotation/index.html" id="1f396501-011b-4a9c-9714-21a94e79d16e">
+          <mxCell edge="1" parent="1" source="ca62148a-c4f7-4788-87b0-1d99012feb26" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDInclude/references/eStructuralFeatures/annotation/index.html" id="db2b6473-209f-4876-9f02-f980bb22f956">
+          <mxCell edge="1" parent="1" source="74dc4934-c927-48b7-acfc-8a34c6b17963" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/annotation/index.html" id="f27f9c3c-d503-41d6-920b-46ddc9da9dcd">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDParticleContent" link="references/eClassifiers/XSDParticleContent/index.html" id="01a773ac-ac22-4c56-a8f0-082e55eb43f8">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1403.3108907926905" y="666.8569081562154" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="634cf2ab-6ad3-47a9-ad69-6dabacb9035c" edge="1" parent="1" source="01a773ac-ac22-4c56-a8f0-082e55eb43f8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="672ba702-5958-42e3-bf33-328f9edd0501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="content" link="references/eClassifiers/XSDParticle/references/eStructuralFeatures/content/index.html" id="77058636-046a-4ecb-8e28-10700d3c0375">
+          <mxCell edge="1" parent="1" source="80b90e2f-6a87-46d6-a052-aa2a7498c0ea" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="01a773ac-ac22-4c56-a8f0-082e55eb43f8">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="31f8b6b5-2557-492b-aef7-1288ea06da74" edge="1" parent="1" source="6a36eb10-ec03-4a20-9f91-94c7a063f54b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a773ac-ac22-4c56-a8f0-082e55eb43f8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7692d39-c3a2-4e8e-978f-33ccd625cc5a" edge="1" parent="1" source="4f04a8a0-d678-4e03-8df4-204330d665d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a773ac-ac22-4c56-a8f0-082e55eb43f8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDRedefinableComponent" link="references/eClassifiers/XSDRedefinableComponent/index.html" id="3894aaf5-9f06-4c7f-8f8e-b8ed3fdd4fb7">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1265.581002448338" y="814.4396587262472" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="bfc3a417-af26-42c4-ac6c-868e40c4f747" edge="1" parent="1" source="3894aaf5-9f06-4c7f-8f8e-b8ed3fdd4fb7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="b82402bf-2a5d-4446-be8e-aa77a83a8f86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43c2cd32-56a3-4174-ac31-0d28fcaac448" edge="1" parent="1" source="3894aaf5-9f06-4c7f-8f8e-b8ed3fdd4fb7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="2586732c-e26a-417a-9705-19ba9ed088c4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f3a4fd4-0887-4ad9-b4c8-94b961673d23" edge="1" parent="1" source="f6272327-d24d-408f-aabf-025bd5da776a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="3894aaf5-9f06-4c7f-8f8e-b8ed3fdd4fb7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce13ef4a-48a6-4058-8126-986e6446d1ee" edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="3894aaf5-9f06-4c7f-8f8e-b8ed3fdd4fb7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32f873dc-9e4e-4fca-8e7c-8e79443a3490" edge="1" parent="1" source="6a36eb10-ec03-4a20-9f91-94c7a063f54b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="3894aaf5-9f06-4c7f-8f8e-b8ed3fdd4fb7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDMaxExclusiveFacet" link="references/eClassifiers/XSDMaxExclusiveFacet/index.html" id="80a9770d-2cf5-48d5-bf4f-c9d51891235b">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="134.54" x="260" y="150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="49a3b0b7-3037-4232-a25b-9bf4c03cc430" edge="1" parent="1" source="80a9770d-2cf5-48d5-bf4f-c9d51891235b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="49c29183-72cf-48a3-9c99-1d6532e8fe6c">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="327" y="120" />
+              <mxPoint x="470" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="maxExclusiveFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/maxExclusiveFacet/index.html" id="3d7b8409-fa87-4285-a2c2-abf262902a95">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="80a9770d-2cf5-48d5-bf4f-c9d51891235b">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDAttributeUse" link="references/eClassifiers/XSDAttributeUse/index.html" id="a16d3f0d-2401-4f8e-bed2-79b4598188f9">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="821.6627296791218" y="768.1224301992049" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3688b62c-a5b4-4305-bec5-970b6670932c" edge="1" parent="1" source="a16d3f0d-2401-4f8e-bed2-79b4598188f9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="attributeDeclaration" link="references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/attributeDeclaration/index.html" id="01ed6534-bb88-4794-839f-78e24f91f580">
+          <mxCell edge="1" parent="1" source="a16d3f0d-2401-4f8e-bed2-79b4598188f9" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="199e0104-b815-4c80-804b-4e0c0826c512">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="content" link="references/eClassifiers/XSDAttributeUse/references/eStructuralFeatures/content/index.html" id="75630545-e4b9-414e-8ffe-33fc93d7667b">
+          <mxCell edge="1" parent="1" source="a16d3f0d-2401-4f8e-bed2-79b4598188f9" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="199e0104-b815-4c80-804b-4e0c0826c512">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeUses" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/attributeUses/index.html" id="2e7fe4d7-2a6e-46a0-9378-c3282fca75fc">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="a16d3f0d-2401-4f8e-bed2-79b4598188f9">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDComplexTypeDefinition" link="references/eClassifiers/XSDComplexTypeDefinition/index.html" id="bcbb52cf-510e-4b1e-83b9-06adb839adfd">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="959.6075637652933" y="705.4004241550509" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="contentAnnotation" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/contentAnnotation/index.html" id="6ff16d66-b5a9-47e5-902a-b57247a02847">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeUses" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeUses/index.html" id="90adbe5d-b9de-4ee3-b739-bf0b6887bac4">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="a16d3f0d-2401-4f8e-bed2-79b4598188f9">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="syntheticParticle" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/syntheticParticle/index.html" id="c1ac5dd4-6fec-4e65-9b95-d2989f7d25e1">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="80b90e2f-6a87-46d6-a052-aa2a7498c0ea">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="content" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/content/index.html" id="4311a987-9a5e-49db-ac04-bc778f0439e6">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="1390be73-a9d3-495f-9e5c-6fada1a83911">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="contentType" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/contentType/index.html" id="da6f0840-1df1-4dd9-8069-51897df42fcc">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="1390be73-a9d3-495f-9e5c-6fada1a83911">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="b188202d-b10e-46fd-861f-3d606094e4c6" edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="f6272327-d24d-408f-aabf-025bd5da776a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="baseTypeDefinition" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/baseTypeDefinition/index.html" id="ed50bde1-48e4-4bb8-9c86-33c90e33f1e3">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="rootTypeDefinition" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/rootTypeDefinition/index.html" id="d7420bfb-313b-499e-82fa-41d85d395cb5">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f6272327-d24d-408f-aabf-025bd5da776a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeWildcard" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeWildcard/index.html" id="4a3e553d-6ea1-4173-a282-111da09cbef0">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributeWildcardContent" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeWildcardContent/index.html" id="30e86904-85d4-497c-9fb4-000174448729">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="syntheticWildcard" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/syntheticWildcard/index.html" id="e1880ed3-df17-480f-8d8f-0233a5d252b0">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="929727c3-b3f0-47b4-ad86-c80c0e43ff86">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDCompositor" link="references/eClassifiers/XSDCompositor/index.html" id="edaa1cb9-7d8a-40e7-9c3f-69bd0ee708c8">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="1039" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="31ac5253-1ebb-44b3-9fe3-60558279cb9c" edge="1" parent="1" source="edaa1cb9-7d8a-40e7-9c3f-69bd0ee708c8" target="edaa1cb9-7d8a-40e7-9c3f-69bd0ee708c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDAttributeGroupContent" link="references/eClassifiers/XSDAttributeGroupContent/index.html" id="4a94939d-f26b-4c25-b724-91562f35527a">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="816.2657508610874" y="828.6662921763184" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e04230e7-e693-42ae-b590-bcf3627f6056" edge="1" parent="1" source="4a94939d-f26b-4c25-b724-91562f35527a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="672ba702-5958-42e3-bf33-328f9edd0501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="attributeContents" link="references/eClassifiers/XSDComplexTypeDefinition/references/eStructuralFeatures/attributeContents/index.html" id="b1e125a5-6ddb-4a83-959b-0ccb8c89f694">
+          <mxCell edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="4a94939d-f26b-4c25-b724-91562f35527a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="a3ecd8db-a727-45c1-b6ed-1945b1d293ae" edge="1" parent="1" source="a16d3f0d-2401-4f8e-bed2-79b4598188f9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="4a94939d-f26b-4c25-b724-91562f35527a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e438e84-022f-422d-afa6-a54acc958756" edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="4a94939d-f26b-4c25-b724-91562f35527a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="contents" link="references/eClassifiers/XSDAttributeGroupDefinition/references/eStructuralFeatures/contents/index.html" id="dc42410e-3733-4f05-824c-13d89cab8ab4">
+          <mxCell edge="1" parent="1" source="a51622d9-0819-48dd-b2f2-01b7ff4fc973" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="4a94939d-f26b-4c25-b724-91562f35527a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDXPathVariety" link="references/eClassifiers/XSDXPathVariety/index.html" id="8737e1d5-deaf-42d8-9b59-863eb0168e7a">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="222" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6a8a5c95-12bc-4521-a3e1-409e2370cb1e" edge="1" parent="1" source="8737e1d5-deaf-42d8-9b59-863eb0168e7a" target="8737e1d5-deaf-42d8-9b59-863eb0168e7a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDScope" link="references/eClassifiers/XSDScope/index.html" id="f591bbb0-8aad-4247-9932-0baf66200f1f">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="964.0643169516728" y="867.1106162355535" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="32628070-c807-41b8-aa84-db75beea071d" edge="1" parent="1" source="f591bbb0-8aad-4247-9932-0baf66200f1f" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="6abb3fe7-6e93-4acd-8277-c812ac143464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b804de34-49e1-4a1a-ac4d-74c6f6939900" edge="1" parent="1" source="bcbb52cf-510e-4b1e-83b9-06adb839adfd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="f591bbb0-8aad-4247-9932-0baf66200f1f">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aa5ab946-0c48-48da-b514-a43f3185b7a3" edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="f591bbb0-8aad-4247-9932-0baf66200f1f">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="scope" link="references/eClassifiers/XSDFeature/references/eStructuralFeatures/scope/index.html" id="a2c083a1-0fcd-484b-8b79-f20650fefa44">
+          <mxCell edge="1" parent="1" source="38007830-c471-4eac-a3fa-772c0991aed6" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="f591bbb0-8aad-4247-9932-0baf66200f1f">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDIdentityConstraintDefinition" link="references/eClassifiers/XSDIdentityConstraintDefinition/index.html" id="614936a2-2adf-4318-8f5d-a3da44575f42">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="155" x="1412.0935962874246" y="932.6628931281255" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotation" link="references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/annotation/index.html" id="2707336e-44d7-4de0-9925-42c157f23a07">
+          <mxCell edge="1" parent="1" source="614936a2-2adf-4318-8f5d-a3da44575f42" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="7a83a564-c9f7-4a97-9aef-9d0b617bc995" edge="1" parent="1" source="614936a2-2adf-4318-8f5d-a3da44575f42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="2586732c-e26a-417a-9705-19ba9ed088c4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="selector" link="references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/selector/index.html" id="58df1f24-3701-4162-8ece-149984a524d3">
+          <mxCell edge="1" parent="1" source="614936a2-2adf-4318-8f5d-a3da44575f42" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="ca62148a-c4f7-4788-87b0-1d99012feb26">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="fields" link="references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/fields/index.html" id="c0f06ff8-179f-4e0e-ba29-273d505779de">
+          <mxCell edge="1" parent="1" source="614936a2-2adf-4318-8f5d-a3da44575f42" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="ca62148a-c4f7-4788-87b0-1d99012feb26">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="referencedKey" link="references/eClassifiers/XSDIdentityConstraintDefinition/references/eStructuralFeatures/referencedKey/index.html" id="d4561aa3-774d-4069-88af-d23a7872303c">
+          <mxCell edge="1" parent="1" source="614936a2-2adf-4318-8f5d-a3da44575f42" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="614936a2-2adf-4318-8f5d-a3da44575f42">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="identityConstraintDefinitions" link="references/eClassifiers/XSDSchema/references/eStructuralFeatures/identityConstraintDefinitions/index.html" id="c495b30a-5234-4c28-8982-b8acd3f20ff7">
+          <mxCell edge="1" parent="1" source="d761ff79-ce96-4171-840a-c7377636844d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="614936a2-2adf-4318-8f5d-a3da44575f42">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="identityConstraintDefinitions" link="references/eClassifiers/XSDElementDeclaration/references/eStructuralFeatures/identityConstraintDefinitions/index.html" id="85044ef6-629a-4d41-8017-71721e8e0a55">
+          <mxCell edge="1" parent="1" source="6dadeb8e-54fa-4c14-8f22-fbef42988de5" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="614936a2-2adf-4318-8f5d-a3da44575f42">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDRepeatableFacet" link="references/eClassifiers/XSDRepeatableFacet/index.html" id="eaaad896-b2a1-4b78-8284-0bb60776df1c">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1147.3708788900003" y="475.5158716778626" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="annotations" link="references/eClassifiers/XSDRepeatableFacet/references/eStructuralFeatures/annotations/index.html" id="64f160e4-2142-4690-84e0-86d708009eb1">
+          <mxCell edge="1" parent="1" source="eaaad896-b2a1-4b78-8284-0bb60776df1c" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="be603cbb-7bdb-44a3-9c3f-a7f4816f3f4e">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="a6ea2787-0d3f-4f6c-ae8a-697d4b087747" edge="1" parent="1" source="eaaad896-b2a1-4b78-8284-0bb60776df1c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="084629a6-c835-4f6e-bc67-a12b6ccd6bfc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63142332-4942-4d22-82e8-2982ea0f7897" edge="1" parent="1" source="130985cd-d01c-4c8b-870d-f996df2058ce" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="eaaad896-b2a1-4b78-8284-0bb60776df1c">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="XSDWhiteSpaceFacet" link="references/eClassifiers/XSDWhiteSpaceFacet/index.html" id="24d7f97c-2f0e-4752-b833-53410717f2f4">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="812.4873535609178" y="306.0427567870644" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="62af407d-4b3a-4649-9249-e4e9d6627fe8" edge="1" parent="1" source="24d7f97c-2f0e-4752-b833-53410717f2f4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="whiteSpaceFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/whiteSpaceFacet/index.html" id="de77a053-ece9-4e2c-ac71-2bf48b985835">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="24d7f97c-2f0e-4752-b833-53410717f2f4">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveWhiteSpaceFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveWhiteSpaceFacet/index.html" id="b77608dd-3fd5-4844-a6f6-0d0730573b50">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="24d7f97c-2f0e-4752-b833-53410717f2f4">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDEnumerationFacet" link="references/eClassifiers/XSDEnumerationFacet/index.html" id="9a904f88-cb77-4284-8040-1ab5aee34032">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="1116.9563933230218" y="322.38288636039977" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="b893c1c9-6f81-46a6-9459-9dee6b10ba0d" edge="1" parent="1" source="9a904f88-cb77-4284-8040-1ab5aee34032" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="eaaad896-b2a1-4b78-8284-0bb60776df1c">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="enumerationFacets" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/enumerationFacets/index.html" id="bdceca4d-3797-4bcc-a47f-4bd62c9d281f">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="9a904f88-cb77-4284-8040-1ab5aee34032">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveEnumerationFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveEnumerationFacet/index.html" id="e04143ee-f42f-4d64-b049-45177d454079">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="9a904f88-cb77-4284-8040-1ab5aee34032">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="XSDTotalDigitsFacet" link="references/eClassifiers/XSDTotalDigitsFacet/index.html" id="0f25792e-9165-41c1-a923-23fa4bccbe34">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="394.5395492484436" y="396.5872836074556" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="787ea0fc-edd0-4cd1-860d-72604c2fb7ab" edge="1" parent="1" source="0f25792e-9165-41c1-a923-23fa4bccbe34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="a597ebe2-3014-4083-931b-0c93e2df1396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="totalDigitsFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/totalDigitsFacet/index.html" id="d7de34f6-2dd6-4132-a6ae-91231fe46cd0">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="0f25792e-9165-41c1-a923-23fa4bccbe34">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="effectiveTotalDigitsFacet" link="references/eClassifiers/XSDSimpleTypeDefinition/references/eStructuralFeatures/effectiveTotalDigitsFacet/index.html" id="6899b751-c49f-4e0e-986c-23a551ee6d27">
+          <mxCell edge="1" parent="1" source="9992415d-8b88-4fa7-9a52-aa687b5caf1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="0f25792e-9165-41c1-a923-23fa4bccbe34">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
